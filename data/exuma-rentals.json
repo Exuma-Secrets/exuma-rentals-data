@@ -380,7 +380,7 @@
     "bedrooms": 1,
     "sleeps": 3,
     "bathrooms": 1,
-    "price": 0,
+    "price": null,
     "description": "",
     "images": [
       "https://media.vrbo.com/lodging/95000000/94810000/94801700/94801608/f7ffbaa7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -672,7 +672,6 @@
     "boat": false,
     "car": true
   },
-
   {
     "title": "Dreammaker",
     "ownership": "Foreign",
@@ -941,9 +940,9 @@
     "ownership": "Foreign",
     "location": "George Town",
     "bedrooms": 1,
-    "sleeps": 0,
+    "sleeps": null,
     "bathrooms": 1,
-    "price": 0,
+    "price": null,
     "description": "",
     "images": [
       "https://img1.wsimg.com/isteam/ip/f4950802-4139-43d5-8ebc-2cdb03345a5f/Exuma%20Secrets_%20Tropical%20Paradise%20Preview.png/:/rs=w:95,h:68,cg:true,m/cr=w:95,h:68,a:cc"
@@ -957,4 +956,3 @@
     "car": false
   }
 ]
-
