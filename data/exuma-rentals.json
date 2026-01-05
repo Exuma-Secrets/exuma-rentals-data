@@ -100,7 +100,7 @@
     "sleeps": 9,
     "bathrooms": 5,
     "price": 750,
-    "description": "",
+    "description": "Ole Ike Bay is a luxurious oceanfront estate in Moriah Harbour National Park (Rolletown), built for travelers who want privacy plus high-end, “everything’s handled” comfort. Expect panoramic ocean views, a private beach and dock, and a private pickleball court for post-sandbar bragging rights. Inside, the home is stocked for real-life living: a chef-style kitchen, smart-home features, Sonos audio, and fast Wi-Fi/Starlink that actually works when you’re trying to “work from paradise.” With 3 bedrooms, 4+ bathrooms, and sleep space for up to 7, it’s ideal for families or a small group who want room to spread out. The cherry on top: daily butler/housekeeping service, so your biggest chore is deciding sunrise coffee or sunset cocktails.",
     "images": [
       "https://media.vrbo.com/lodging/113000000/112110000/112109900/112109882/cf9523d7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/113000000/112110000/112109900/112109882/c0530bfc.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -124,7 +124,7 @@
     "sleeps": 2,
     "bathrooms": 1,
     "price": 138,
-    "description": "",
+    "description": "Ocean View Villa is a peaceful one-bedroom hideaway in Rolle Town, perfect for couples or a simple “pause button” getaway. It’s the kind of place where mornings are quiet, the views are the main character, and your day plan can be as ambitious (sandbars, beach hopping, boat day) or as lazy (coffee, book, repeat) as you want. A great base for exploring the Rolle Town sandbars area while keeping the vibe calm and uncrowded.",
     "images": [
       "https://media.vrbo.com/lodging/77000000/76800000/76798200/76798158/w828h460x0y665-8fb93f41.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/77000000/76800000/76798200/76798158/3e8153fc.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -954,5 +954,29 @@
     "kayak": false,
     "boat": false,
     "car": false
-  }
+  },
+  {
+  "title": "Beachfront Suite in Rolleville (2BR)",
+  "ownership": "Bahamian",
+  "location": "Rolleville",
+  "bedrooms": 2,
+  "sleeps": 5,
+  "bathrooms": 1,
+  "price": 240,
+  "description": "Bright, breezy 2-bedroom beachfront suite in Rolleville with direct beach access just steps away and gorgeous ocean views from your private patio. Includes a fully equipped kitchen, fast Wi-Fi, A/C, smart TV, beach gear (chairs, towels, cooler, umbrella), and free on-site parking. Quiet, peaceful location near Da Cabana Bar & Grill, and convenient to local eats, shops, and popular boat tours. Private entrance and fully private unit; beach path may be shared with guests on the other side of the duplex.",
+  "images": [
+    "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/0a8a650e-16c4-468e-aac5-6ded3bae2ce5.jpeg?im_w=1200",
+    "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/a86fb917-a3d4-4523-a847-bed27af8fd35.jpeg?im_w=1200",
+    "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/eebc3096-c947-4bbf-a254-3b8e7554e5b3.jpeg?im_w=720",
+    "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/1decf775-9d67-42f7-a3d0-0881fedcdcbe.jpeg?im_w=1200",
+    "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/718ab30f-bd13-4563-aa48-3c35fe8fe1a2.jpeg?im_w=720"
+  ],
+  "url": "https://www.airbnb.com/rooms/499152465998616111?guests=1&adults=1&s=67&unique_share_id=ba45418a-1e2c-4ad2-9097-9bce42bc6745",
+  "pool": false,
+  "oceanfront": true,
+  "gym": false,
+  "kayak": false,
+  "boat": false,
+  "car": false
+}
 ]
