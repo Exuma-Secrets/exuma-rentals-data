@@ -14,7 +14,7 @@
       "https://media.vrbo.com/lodging/47000000/46300000/46299400/46299347/ade14f22.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/47000000/46300000/46299400/46299347/d92878dd.jpg?impolicy=resizecrop&rw=1200&ra=fit"
     ],
-    "url": "https://vrbo.com/affiliates/exuma_secrets/rolletown_retreat",
+    "url": "https://expedia.com/affiliates/rolle-town-retreat.Hlb3Zjb",
     "pool": false,
     "oceanfront": false,
     "gym": false,
@@ -37,7 +37,7 @@
       "https://media.vrbo.com/lodging/110000000/109030000/109029300/109029237/353fca2f.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/110000000/109030000/109029300/109029237/e09f6d9a.jpg?impolicy=resizecrop&rw=1200&ra=fit"
     ],
-    "url": "https://vrbo.com/affiliates/exuma_secrets/bay_view_villa-1",
+    "url": "https://expedia.com/affiliates/bay-view-vacation-rentals-villa-1.JpIDgdV",
     "pool": false,
     "oceanfront": true,
     "gym": false,
@@ -60,7 +60,7 @@
       "https://media.vrbo.com/lodging/110000000/109030000/109029300/109029236/w904h683x60y0-245da189.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/110000000/109030000/109029300/109029236/w904h683x60y0-af6a72b2.jpg?impolicy=resizecrop&rw=1200&ra=fit"
     ],
-    "url": "https://vrbo.com/affiliates/exuma_secrets/bay_view_villa-2",
+    "url": "https://expedia.com/affiliates/bay-view-vacation-rentals-villa-2.xg2L5MR",
     "pool": false,
     "oceanfront": true,
     "gym": false,
@@ -108,7 +108,7 @@
       "https://media.vrbo.com/lodging/113000000/112110000/112109900/112109882/feafb831.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/113000000/112110000/112109900/112109882/54e3a6ad.jpg?impolicy=resizecrop&rw=1200&ra=fit"
     ],
-    "url": "https://vrbo.com/affiliates/exuma_secrets/ole_ike_bay",
+    "url": "https://expedia.com/affiliates/ole-ike-bay-luxury-villa-private-beach-dock-5-guests.wIFZImR",
     "pool": false,
     "oceanfront": true,
     "gym": false,
@@ -131,7 +131,7 @@
       "https://media.vrbo.com/lodging/77000000/76800000/76798200/76798158/0cb53755.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/77000000/76800000/76798200/76798158/1cec9ffa.jpg?impolicy=resizecrop&rw=1200&ra=fit"
     ],
-    "url": "https://vrbo.com/affiliates/exuma_secrets/ocean_view_villa-rolletown",
+    "url": "https://expedia.com/affiliates/ocean-view-villa-w-patio-deck.aTXzg7c",
     "pool": false,
     "oceanfront": false,
     "gym": false,
@@ -978,5 +978,32 @@
   "kayak": false,
   "boat": false,
   "car": false
+},
+  {
+  "title": "Saint Francis Resort & Marina",
+  "ownership": "Foreign",
+  "location": "Stocking Island (George Town)",
+  "bedrooms": 1,
+  "sleeps": 2,
+  "bathrooms": 1,
+  "price": 300,
+  "description": "Saint Francis Resort & Marina is a laid-back, beachfront hideaway on Stocking Island, just across the water from George Town. It’s the kind of place you book when you want quiet mornings, salty air, and the feeling that the island is running on its own gentle clock. Guests have direct beach access, an on-site pool, and a waterfront restaurant and bar for easy island meals without hopping back and forth. Boaters love it too, thanks to the marina/dock setup, and it’s a great base for exploring Elizabeth Harbour, Chat ‘N’ Chill, sandbars, and all the classic Exuma boat-day magic. If you’re looking for a relaxed, ‘toes-in-the-sand’ stay that still keeps you close to town, this one checks a lot of boxes.",
+  "images": [
+    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/f89dc131.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/d4424aff.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/89abff40.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/68fdc02c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/18da9673.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/3704fc49.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/ec0943d5.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+  ],
+  "url": "https://expedia.com/affiliates/stocking-island-hotels-saint-francis-resort.hXwgNj6",
+  "pool": true,
+  "oceanfront": true,
+  "gym": false,
+  "kayak": false,
+  "boat": true,
+  "car": false
 }
+
 ]
