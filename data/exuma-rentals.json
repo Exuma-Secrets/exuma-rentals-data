@@ -244,13 +244,17 @@
     "price": 350,
     "description": "",
     "images": [
-      "https://a0.muscache.com/im/pictures/miso/Hosting-29677211/original/9a929b7f-cf95-45ee-8eb3-c6c75f3435a9.jpeg?im_w=1200",
-      "https://a0.muscache.com/im/pictures/b0b1ac46-be69-4b31-a56e-26e01f1168c2.jpg?im_w=1200",
-      "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Mjk2NzcyMTE%3D/original/c4f46c52-8d39-44b0-a7d3-5e2e820b1011.jpeg?im_w=720",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-29677211/original/19c7917f-2c7a-460a-9ca4-f3b382d3d182.jpeg?im_w=1200",
-      "https://a0.muscache.com/im/pictures/d7c49007-a462-427b-8c69-3d9de4eb8f4a.jpg?im_w=1200"
+      "https://images.trvl-media.com/lodging/34000000/33120000/33116300/33116207/8dc1564c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/34000000/33120000/33116300/33116207/290b9711.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/34000000/33120000/33116300/33116207/5ce6cd48.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/34000000/33120000/33116300/33116207/b2986b92.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/34000000/33120000/33116300/33116207/5d0ed7dd.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/34000000/33120000/33116300/33116207/a2b444a6.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/34000000/33120000/33116300/33116207/cf2aef95.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/34000000/33120000/33116300/33116207/d09d1b46.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/34000000/33120000/33116300/33116207/b2d8af7c.jpg?impolicy=resizecrop&rw=1200&ra=fit"
     ],
-    "url": "https://www.airbnb.com/rooms/29677211?guests=1&adults=1&s=67&unique_share_id=28c842d1-9d71-4fc4-8e68-b4b75689d235",
+    "url": "https://expedia.com/affiliates/george-town-hotels-ocean-mist-villa.o6FO7eJ",
     "pool": false,
     "oceanfront": true,
     "gym": false,
@@ -266,14 +270,17 @@
     "sleeps": 4,
     "bathrooms": 2,
     "price": 420,
-    "description": "",
+    "description": "Cottage Cut Villas is a relaxed beachfront villa hideaway in the George Town area, set on a private beach so you can swap schedules for sea breeze. It’s an “entire home” style stay with the comforts that matter when you’re actually living island life, not just visiting it: a full kitchen, laundry, A/C, plus a BBQ grill and outdoor furniture for easy dinners and sunset hangs.",
     "images": [
-      "https://a0.muscache.com/im/pictures/miso/Hosting-54049318/original/dd9e5040-fc9a-45d2-9f01-67298b58e3b8.jpeg?im_w=1200",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-54049318/original/e3b5fc22-152e-47c3-bb17-f07a387e463b.jpeg?im_w=1200",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-54049318/original/acd0c04a-fce3-4651-a8cc-c3bfa76b1aec.jpeg?im_w=1200",
-      "https://a0.muscache.com/im/pictures/miso/Hosting-54049318/original/84badd44-9841-4f83-b7be-dc9793f68a50.jpeg?im_w=1200"
+      "https://images.trvl-media.com/lodging/10000000/9730000/9723500/9723402/57ffad74.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/10000000/9730000/9723500/9723402/25d907b6.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/10000000/9730000/9723500/9723402/714a22da.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/10000000/9730000/9723500/9723402/74d4faa9.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/10000000/9730000/9723500/9723402/334dd379.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/10000000/9730000/9723500/9723402/af9a45b9.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/10000000/9730000/9723500/9723402/7612b9ab.jpg?impolicy=resizecrop&rw=1200&ra=fit"
     ],
-    "url": "https://www.airbnb.com/rooms/54049318?check_in=2023-12-08&check_out=2023-12-12&guests=1&adults=1&s=67&unique_share_id=1172fc9f-99f3-4bf3-ac0f-c24de1303b88",
+    "url": "https://expedia.com/affiliates/george-town-hotels-cottage-cut-villas.ZAY4xjs",
     "pool": false,
     "oceanfront": true,
     "gym": false,
@@ -289,14 +296,14 @@
     "sleeps": 3,
     "bathrooms": 1,
     "price": 125,
-    "description": "",
+    "description": "Exuma Home Rentals is a comfortable entire apartment in George Town with a private pool, full kitchen, and the everyday essentials that make island life easy: A/C, free Wi-Fi, and an in-unit washer. It’s a great “home base” for exploring Exuma, with popular beaches like Palm Bay Beach and Jolly Hall Beach just a short drive away. After a beach day, come back, rinse off, and unwind poolside before heading out for dinner in town.",
     "images": [
       "https://a0.muscache.com/im/pictures/b22fb7bc-792f-47f1-a909-010daf4afac1.jpg?im_w=1200",
       "https://a0.muscache.com/im/pictures/4d658c81-0682-4478-b148-e0723b9d2018.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/3c44210e-1d45-4a70-a09a-21fed5d55c1d.jpg?im_w=720",
       "https://a0.muscache.com/im/pictures/38e091d4-6384-4dbe-8f95-a523f5d7ab96.jpg?im_w=720"
     ],
-    "url": "https://www.airbnb.com/rooms/30033249?guests=1&adults=1&s=67&unique_share_id=ecbd342c-8f90-40a7-b2bb-4e278a838b31",
+    "url": "https://expedia.com/affiliates/george-town-hotels-exuma-home-rentals-beach-is-short-drive-away-by-using-one-of-our-rentals.GwB4YRK",
     "pool": true,
     "oceanfront": false,
     "gym": false,
@@ -380,7 +387,7 @@
     "bedrooms": 1,
     "sleeps": 3,
     "bathrooms": 1,
-    "price": null,
+    "price": 200,
     "description": "",
     "images": [
       "https://media.vrbo.com/lodging/95000000/94810000/94801700/94801608/f7ffbaa7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -680,7 +687,7 @@
     "sleeps": 11,
     "bathrooms": 3,
     "price": 690,
-    "description": "",
+    "description": "A true toes-in-the-sand Exuma escape on Moriah Harbour in Hartswell, this beachfront villa pairs postcard views with the convenience of your own boat dock/mooring. Start mornings with coffee to the sound of waves, grill fresh catch for sunset dinners, and enjoy all the comforts between beach sessions, including A/C, a full kitchen, and in-home laundry. You’re perfectly positioned for exploring the south, with Rolletown Tombs, Tropic of Cancer Beach, and Little Exuma beaches just a short drive away.",
     "images": [
       "https://media.vrbo.com/lodging/36000000/35560000/35552600/35552584/b6c972fc.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/36000000/35560000/35552600/35552584/90-91fedcab.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -690,7 +697,7 @@
       "https://media.vrbo.com/lodging/36000000/35560000/35552600/35552584/4593ca01.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/36000000/35560000/35552600/35552584/a7b7b939.jpg?impolicy=resizecrop&rw=1200&ra=fit"
     ],
-    "url": "https://vrbo.com/affiliates/1589879.msEkqNC",
+    "url": "https://expedia.com/affiliates/hartswell-hotels-stunning-beach-property-on-moriah-harbour-with-boat-mooring-breathtaking-views.6U7bVue",
     "pool": false,
     "oceanfront": true,
     "gym": false,
@@ -940,9 +947,9 @@
     "ownership": "Foreign",
     "location": "George Town",
     "bedrooms": 1,
-    "sleeps": null,
+    "sleeps": 2,
     "bathrooms": 1,
-    "price": null,
+    "price": 250,
     "description": "",
     "images": [
       "https://img1.wsimg.com/isteam/ip/f4950802-4139-43d5-8ebc-2cdb03345a5f/Exuma%20Secrets_%20Tropical%20Paradise%20Preview.png/:/rs=w:95,h:68,cg:true,m/cr=w:95,h:68,a:cc"
@@ -1004,6 +1011,38 @@
   "kayak": false,
   "boat": true,
   "car": false
+},
+  {
+  "title": "SerenityBlu - Your Dream Come True!",
+  "ownership": "Bahamian",
+  "location": "Rolle Town",
+  "bedrooms": 2,
+  "sleeps": 6,
+  "bathrooms": 2,
+  "price": 0,
+  "description": "SerenityBlu is a bright, modern ocean-view escape in Rolle Town that’s built for true “Exuma exhale” mode. With 2 bedrooms, 2 bathrooms, and 4 beds (plus space to sleep up to 6), it’s a great fit for couples, families, or a small crew who want comfort without losing that island vibe. The highlight is the private outdoor hot tub, perfect for sunset soaks after a boat day. Inside, you’ll find A/C, fast Wi-Fi, and an easy, open layout designed for relaxing between beach runs, sandbar adventures, and meals at nearby local spots. Quiet location, big views, and close enough to the action when you want it.",
+  "images": [
+    "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/f6c351fe.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/f294af0d.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/c1447035.png?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/7cc12094.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/a21bae52.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/3e90db64.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/eeb60b83-a810-4d9b-aea5-dc9f22d0497a.jpeg?im_w=720",
+    "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/94c015ce-929e-4dbd-9c98-1af6a14f1249.jpeg?im_w=720",
+    "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/67e0f9f4-e8fe-4c3f-9ba9-166092f7d8cc.jpeg?im_w=720",
+    "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/4e64a000-fee1-433e-99c0-6c18fd5596b8.jpeg?im_w=720",
+    "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/e8b63386-bbee-4957-b378-f59d7998bc00.jpeg?im_w=720",
+    "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/dfefc561-6ed4-49fe-8e31-321999572cd0.jpeg?im_w=720"
+  ],
+  "url": "https://expedia.com/affiliates/serenityblu-your-dream-come-true-beautiful-rolletown.7QA7DCz",
+  "pool": false,
+  "oceanfront": false,
+  "gym": false,
+  "kayak": false,
+  "boat": false,
+  "car": false,
+  "hot_tub": true,
+  "beds": 4
 }
-
 ]
