@@ -7,7 +7,7 @@
     "sleeps": 4,
     "bathrooms": 1,
     "price": 193,
-    "description": "Rolle Town Retreat is a cozy waterfront escape located directly across from Man O’ War Cay and the famous Rolle Town sandbars. A small, secluded beach just steps from the cottage is perfect for watching the sunrise, swimming, or launching a kayak for a day on the water. The retreat offers a peaceful, private atmosphere while still being close enough to explore George Town and nearby attractions. With its calm setting, turquoise views, and easy access to Exuma’s natural beauty, Rolle Town Retreat is an ideal choice for couples or small families looking to unwind in paradise.",
+    "description": "Rolle Town Retreat is a cozy waterfront escape located directly across from Man Oâ€™ War Cay and the famous Rolle Town sandbars. A small, secluded beach just steps from the cottage is perfect for watching the sunrise, swimming, or launching a kayak for a day on the water. The retreat offers a peaceful, private atmosphere while still being close enough to explore George Town and nearby attractions. With its calm setting, turquoise views, and easy access to Exumaâ€™s natural beauty, Rolle Town Retreat is an ideal choice for couples or small families looking to unwind in paradise.",
     "images": [
       "https://media.vrbo.com/lodging/47000000/46300000/46299400/46299347/a1d18e06.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/47000000/46300000/46299400/46299347/d60d581d.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -20,7 +20,9 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Bayview Villa 1",
@@ -30,7 +32,7 @@
     "sleeps": 4,
     "bathrooms": 1,
     "price": 250,
-    "description": "Bayview Villas sit directly on the water with a shared private beach and boat ramp, perfect for launching into the turquoise Exuma seas. Guests can request boat rentals directly through the property or arrange for car rentals to explore the island with ease. Located across from Man O’ War Cay and the Rolle Town sandbars, the villas enjoy some of the most breathtaking sunrise views in Exuma. The shared patio includes a covered lounge and dining space where you can relax and take in the view. Bayview Villas are an excellent choice for families, couples, or groups seeking comfort, convenience, and a true oceanfront escape.",
+    "description": "Bayview Villas sit directly on the water with a shared private beach and boat ramp, perfect for launching into the turquoise Exuma seas. Guests can request boat rentals directly through the property or arrange for car rentals to explore the island with ease. Located across from Man Oâ€™ War Cay and the Rolle Town sandbars, the villas enjoy some of the most breathtaking sunrise views in Exuma. The shared patio includes a covered lounge and dining space where you can relax and take in the view. Bayview Villas are an excellent choice for families, couples, or groups seeking comfort, convenience, and a true oceanfront escape.",
     "images": [
       "https://media.vrbo.com/lodging/110000000/109030000/109029300/109029237/32a5ab22.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/110000000/109030000/109029300/109029237/1f59f58f.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -43,7 +45,9 @@
     "gym": false,
     "kayak": true,
     "boat": true,
-    "car": true
+    "car": true,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Bayview Villa 2",
@@ -53,7 +57,7 @@
     "sleeps": 4,
     "bathrooms": 1,
     "price": 250,
-    "description": "Bayview Villas sit directly on the water with a shared private beach and boat ramp, perfect for launching into the turquoise Exuma seas. Guests can request boat rentals directly through the property or arrange for car rentals to explore the island with ease. Located across from Man O’ War Cay and the Rolle Town sandbars, the villas enjoy some of the most breathtaking sunrise views in Exuma. The shared patio includes a covered lounge and dining space where you can relax and take in the view. Bayview Villas are an excellent choice for families, couples, or groups seeking comfort, convenience, and a true oceanfront escape.",
+    "description": "Bayview Villas sit directly on the water with a shared private beach and boat ramp, perfect for launching into the turquoise Exuma seas. Guests can request boat rentals directly through the property or arrange for car rentals to explore the island with ease. Located across from Man Oâ€™ War Cay and the Rolle Town sandbars, the villas enjoy some of the most breathtaking sunrise views in Exuma. The shared patio includes a covered lounge and dining space where you can relax and take in the view. Bayview Villas are an excellent choice for families, couples, or groups seeking comfort, convenience, and a true oceanfront escape.",
     "images": [
       "https://media.vrbo.com/lodging/110000000/109030000/109029300/109029236/w906h683x59y0-88a1b43b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/110000000/109030000/109029300/109029236/w904h683x60y0-edf257d4.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -66,7 +70,9 @@
     "gym": false,
     "kayak": true,
     "boat": true,
-    "car": true
+    "car": true,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Paradise at BLU",
@@ -76,7 +82,7 @@
     "sleeps": 4,
     "bathrooms": 2,
     "price": 401,
-    "description": "",
+    "description": "Paradise at BLU is a 2-bedroom oceanfront stay in Rolle Town thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 2 bedrooms, sleeps up to 4, and 2 bathrooms. Highlights include pool for easy â€˜island modeâ€™ living. Set in Rolle Town on Great Exumaâ€™s quieter southern side, itâ€™s a great launch point for sandbars, calm-water exploring, and sunrise chasing. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://media.vrbo.com/lodging/73000000/72500000/72496400/72496310/7a7c31e0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/73000000/72500000/72496400/72496310/7b5a2f2e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -90,7 +96,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Ole Ike Bay",
@@ -100,7 +108,7 @@
     "sleeps": 9,
     "bathrooms": 5,
     "price": 750,
-    "description": "Ole Ike Bay is a luxurious oceanfront estate in Moriah Harbour National Park (Rolletown), built for travelers who want privacy plus high-end, “everything’s handled” comfort. Expect panoramic ocean views, a private beach and dock, and a private pickleball court for post-sandbar bragging rights. Inside, the home is stocked for real-life living: a chef-style kitchen, smart-home features, Sonos audio, and fast Wi-Fi/Starlink that actually works when you’re trying to “work from paradise.” With 3 bedrooms, 4+ bathrooms, and sleep space for up to 7, it’s ideal for families or a small group who want room to spread out. The cherry on top: daily butler/housekeeping service, so your biggest chore is deciding sunrise coffee or sunset cocktails.",
+    "description": "Ole Ike Bay is a luxurious oceanfront estate in Moriah Harbour National Park (Rolletown), built for travelers who want privacy plus high-end, â€œeverythingâ€™s handledâ€ comfort. Expect panoramic ocean views, a private beach and dock, and a private pickleball court for post-sandbar bragging rights. Inside, the home is stocked for real-life living: a chef-style kitchen, smart-home features, Sonos audio, and fast Wi-Fi/Starlink that actually works when youâ€™re trying to â€œwork from paradise.â€ With 3 bedrooms, 4+ bathrooms, and sleep space for up to 7, itâ€™s ideal for families or a small group who want room to spread out. The cherry on top: daily butler/housekeeping service, so your biggest chore is deciding sunrise coffee or sunset cocktails.",
     "images": [
       "https://media.vrbo.com/lodging/113000000/112110000/112109900/112109882/cf9523d7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/113000000/112110000/112109900/112109882/c0530bfc.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -114,7 +122,9 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Ocean View Villa",
@@ -124,7 +134,7 @@
     "sleeps": 2,
     "bathrooms": 1,
     "price": 138,
-    "description": "Ocean View Villa is a peaceful one-bedroom hideaway in Rolle Town, perfect for couples or a simple “pause button” getaway. It’s the kind of place where mornings are quiet, the views are the main character, and your day plan can be as ambitious (sandbars, beach hopping, boat day) or as lazy (coffee, book, repeat) as you want. A great base for exploring the Rolle Town sandbars area while keeping the vibe calm and uncrowded.",
+    "description": "Ocean View Villa is a peaceful one-bedroom hideaway in Rolle Town, perfect for couples or a simple â€œpause buttonâ€ getaway. Itâ€™s the kind of place where mornings are quiet, the views are the main character, and your day plan can be as ambitious (sandbars, beach hopping, boat day) or as lazy (coffee, book, repeat) as you want. A great base for exploring the Rolle Town sandbars area while keeping the vibe calm and uncrowded.",
     "images": [
       "https://media.vrbo.com/lodging/77000000/76800000/76798200/76798158/w828h460x0y665-8fb93f41.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/77000000/76800000/76798200/76798158/3e8153fc.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -137,7 +147,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Seabiscuit",
@@ -147,7 +159,7 @@
     "sleeps": 6,
     "bathrooms": 1,
     "price": 350,
-    "description": "Seaside Cottage “Seabiscuit” is a laid-back waterfront home overlooking Exuma’s famous bonefish flats, with ocean views that make morning coffee on the balcony feel like a vacation ritual. Inside, you’ve got the easy comforts that matter, including a full kitchen, A/C, washer, BBQ grill, and on-site parking, plus it’s pet-friendly for travelers bringing a furry first mate. It’s a great pick for families, anglers, or anyone who wants a quiet home base that’s still within a short drive of George Town and popular beaches like Palm Bay and Jolly Hall.",
+    "description": "Seaside Cottage â€œSeabiscuitâ€ is a laid-back waterfront home overlooking Exumaâ€™s famous bonefish flats, with ocean views that make morning coffee on the balcony feel like a vacation ritual. Inside, youâ€™ve got the easy comforts that matter, including a full kitchen, A/C, washer, BBQ grill, and on-site parking, plus itâ€™s pet-friendly for travelers bringing a furry first mate. Itâ€™s a great pick for families, anglers, or anyone who wants a quiet home base thatâ€™s still within a short drive of George Town and popular beaches like Palm Bay and Jolly Hall.",
     "images": [
       "https://media.vrbo.com/lodging/34000000/33730000/33729300/33729210/448f8139.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/34000000/33730000/33729300/33729210/2d3b065a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -161,7 +173,9 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Bonefish Bungalow",
@@ -171,7 +185,7 @@
     "sleeps": 4,
     "bathrooms": 1,
     "price": 213,
-    "description": "Bonefish Bungalow is a waterfront escape in Georgetown that’s tailor-made for anglers and laid-back island days. This entire apartment pairs breezy outdoor living (deck/patio) with the essentials inside, including A/C, laundry access, and a handy kitchenette for easy meals between beach time and fishing runs. You’ll also have access to an outdoor pool and on-site parking, plus you’re a short drive from favorites like Palm Bay Beach and Jolly Hall Beach, making it a comfortable home base for exploring Exuma.",
+    "description": "Bonefish Bungalow is a waterfront escape in Georgetown thatâ€™s tailor-made for anglers and laid-back island days. This entire apartment pairs breezy outdoor living (deck/patio) with the essentials inside, including A/C, laundry access, and a handy kitchenette for easy meals between beach time and fishing runs. Youâ€™ll also have access to an outdoor pool and on-site parking, plus youâ€™re a short drive from favorites like Palm Bay Beach and Jolly Hall Beach, making it a comfortable home base for exploring Exuma.",
     "images": [
       "https://media.vrbo.com/lodging/34000000/33560000/33557300/33557230/626aafd7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/34000000/33560000/33557300/33557230/86a6a1b0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -188,7 +202,9 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Starfish Haven",
@@ -198,7 +214,7 @@
     "sleeps": 5,
     "bathrooms": 2,
     "price": 470,
-    "description": "",
+    "description": "Starfish Haven is a 2-bedroom oceanfront stay in Masters Harbor/Southside thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 2 bedrooms, sleeps up to 5, and 2 bathrooms. Highlights include pool, and kayaks for easy â€˜island modeâ€™ living. In the Masters Harbor area, youâ€™re close to George Town while still feeling tucked away on the water. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://media.vrbo.com/lodging/111000000/110720000/110719400/110719400/d86a593c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/111000000/110720000/110719400/110719400/d54ac9b2.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -213,7 +229,9 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Coral Breeze",
@@ -223,7 +241,7 @@
     "sleeps": 4,
     "bathrooms": 1,
     "price": 180,
-    "description": "Coral Breeze is a bright, breezy villa-style getaway in the George Town area that’s built for slow mornings and salty-air evenings. You’ve got a full kitchen for island breakfasts, A/C for those warm Exuma afternoons, and a private balcony/patio where the views do the heavy lifting, coffee at sunrise, cocktails at sunset. There’s also a washer (huge for beach days) and on-site parking, so day trips around the island are easy.",
+    "description": "Coral Breeze is a bright, breezy villa-style getaway in the George Town area thatâ€™s built for slow mornings and salty-air evenings. Youâ€™ve got a full kitchen for island breakfasts, A/C for those warm Exuma afternoons, and a private balcony/patio where the views do the heavy lifting, coffee at sunrise, cocktails at sunset. Thereâ€™s also a washer (huge for beach days) and on-site parking, so day trips around the island are easy.",
     "images": [
       "https://media.vrbo.com/lodging/22000000/21660000/21650400/21650312/6859bbbb.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/22000000/21660000/21650400/21650312/9e9152ac.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -236,7 +254,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Ocean Mist Villa",
@@ -246,7 +266,7 @@
     "sleeps": 4,
     "bathrooms": 2,
     "price": 350,
-    "description": "",
+    "description": "Ocean Mist Villa is a 2-bedroom oceanfront stay in George Town thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 2 bedrooms, sleeps up to 4, and 2 bathrooms. Highlights include kayaks, and boat options for easy â€˜island modeâ€™ living. Right around George Town, youâ€™re close to marinas, groceries, restaurants, and easy access to Elizabeth Harbour adventures. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://images.trvl-media.com/lodging/34000000/33120000/33116300/33116207/8dc1564c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://images.trvl-media.com/lodging/34000000/33120000/33116300/33116207/290b9711.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -264,7 +284,9 @@
     "gym": false,
     "kayak": true,
     "boat": true,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Cottage Cut Villas",
@@ -274,7 +296,7 @@
     "sleeps": 4,
     "bathrooms": 2,
     "price": 420,
-    "description": "Cottage Cut Villas is a relaxed beachfront villa hideaway in the George Town area, set on a private beach so you can swap schedules for sea breeze. It’s an “entire home” style stay with the comforts that matter when you’re actually living island life, not just visiting it: a full kitchen, laundry, A/C, plus a BBQ grill and outdoor furniture for easy dinners and sunset hangs.",
+    "description": "Cottage Cut Villas is a relaxed beachfront villa hideaway in the George Town area, set on a private beach so you can swap schedules for sea breeze. Itâ€™s an â€œentire homeâ€ style stay with the comforts that matter when youâ€™re actually living island life, not just visiting it: a full kitchen, laundry, A/C, plus a BBQ grill and outdoor furniture for easy dinners and sunset hangs.",
     "images": [
       "https://images.trvl-media.com/lodging/10000000/9730000/9723500/9723402/57ffad74.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://images.trvl-media.com/lodging/10000000/9730000/9723500/9723402/25d907b6.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -290,7 +312,9 @@
     "gym": false,
     "kayak": true,
     "boat": true,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "George Town Retreat",
@@ -300,7 +324,7 @@
     "sleeps": 3,
     "bathrooms": 1,
     "price": 125,
-    "description": "Exuma Home Rentals is a comfortable entire apartment in George Town with a private pool, full kitchen, and the everyday essentials that make island life easy: A/C, free Wi-Fi, and an in-unit washer. It’s a great “home base” for exploring Exuma, with popular beaches like Palm Bay Beach and Jolly Hall Beach just a short drive away. After a beach day, come back, rinse off, and unwind poolside before heading out for dinner in town.",
+    "description": "Exuma Home Rentals is a comfortable entire apartment in George Town with a private pool, full kitchen, and the everyday essentials that make island life easy: A/C, free Wi-Fi, and an in-unit washer. Itâ€™s a great â€œhome baseâ€ for exploring Exuma, with popular beaches like Palm Bay Beach and Jolly Hall Beach just a short drive away. After a beach day, come back, rinse off, and unwind poolside before heading out for dinner in town.",
     "images": [
       "https://a0.muscache.com/im/pictures/b22fb7bc-792f-47f1-a909-010daf4afac1.jpg?im_w=1200",
       "https://a0.muscache.com/im/pictures/4d658c81-0682-4478-b148-e0723b9d2018.jpg?im_w=720",
@@ -313,7 +337,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": true
+    "car": true,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Twin Nest Cottage",
@@ -323,7 +349,7 @@
     "sleeps": 2,
     "bathrooms": 1,
     "price": 180,
-    "description": "",
+    "description": "Twin Nest Cottage is a 1-bedroom getaway in Hooper's Bay thatâ€™s made for easy island days and a calm home base between adventures. It offers 1 bedroom, sleeps up to 2, and 1 bathroom. Highlights include car options for easy â€˜island modeâ€™ living. In the Hooperâ€™s Bay area, youâ€™re close to some of Exumaâ€™s best beach days and a quick drive into George Town for everything else. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://a0.muscache.com/im/pictures/2dfe523a-b022-4dbc-8a2a-70033fe610b3.jpg?im_w=1200",
       "https://a0.muscache.com/im/pictures/1d1e70f8-0d57-4f12-9066-fc0a1cfe0b50.jpg?im_w=1200",
@@ -336,7 +362,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": true
+    "car": true,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Hooper's Haven",
@@ -346,7 +374,7 @@
     "sleeps": 2,
     "bathrooms": 1,
     "price": 115,
-    "description": "",
+    "description": "Hooper's Haven is a 1-bedroom getaway in Hooper's Bay thatâ€™s made for easy island days and a calm home base between adventures. It offers 1 bedroom, sleeps up to 2, and 1 bathroom. Highlights include car options for easy â€˜island modeâ€™ living. In the Hooperâ€™s Bay area, youâ€™re close to some of Exumaâ€™s best beach days and a quick drive into George Town for everything else. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://media.vrbo.com/lodging/91000000/90260000/90259700/90259613/f5420727.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/91000000/90260000/90259700/90259613/9abc2aa0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -359,7 +387,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": true
+    "car": true,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "SeaShell Villa",
@@ -369,7 +399,7 @@
     "sleeps": 3,
     "bathrooms": 1,
     "price": 160,
-    "description": "",
+    "description": "SeaShell Villa is a 1-bedroom getaway in Hooper's Bay thatâ€™s made for easy island days and a calm home base between adventures. It offers 1 bedroom, sleeps up to 3, and 1 bathroom. In the Hooperâ€™s Bay area, youâ€™re close to some of Exumaâ€™s best beach days and a quick drive into George Town for everything else. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://media.vrbo.com/lodging/95000000/94810000/94802000/94801956/297bd74b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/95000000/94810000/94802000/94801956/5a91c081.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -382,7 +412,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Anchor Villa",
@@ -392,7 +424,7 @@
     "sleeps": 3,
     "bathrooms": 1,
     "price": 200,
-    "description": "Tucked in Hooper’s Bay, Anchor Villa is a cozy cottage stay that puts you close to the good stuff: it’s just a short walk to Hooper’s Bay Beach, and a quick drive into George Town when you want groceries, restaurants, and marina vibes. Inside, you’ve got the essentials for an easy “island-living but still comfortable” trip, including A/C and internet access, plus a private kitchen so breakfast doesn’t require shoes. It’s a great base for beach days, boat days, and bike rides around the area (the beach is sometimes nicknamed “Turtle Beach”, but consider turtles a bonus sighting, not a guarantee).",
+    "description": "Tucked in Hooperâ€™s Bay, Anchor Villa is a cozy cottage stay that puts you close to the good stuff: itâ€™s just a short walk to Hooperâ€™s Bay Beach, and a quick drive into George Town when you want groceries, restaurants, and marina vibes. Inside, youâ€™ve got the essentials for an easy â€œisland-living but still comfortableâ€ trip, including A/C and internet access, plus a private kitchen so breakfast doesnâ€™t require shoes. Itâ€™s a great base for beach days, boat days, and bike rides around the area (the beach is sometimes nicknamed â€œTurtle Beachâ€, but consider turtles a bonus sighting, not a guarantee).",
     "images": [
       "https://media.vrbo.com/lodging/95000000/94810000/94801700/94801608/f7ffbaa7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/95000000/94810000/94801700/94801608/bf1af582.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -407,7 +439,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": true
+    "car": true,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Tropical Villa",
@@ -417,7 +451,7 @@
     "sleeps": 3,
     "bathrooms": 1,
     "price": 160,
-    "description": "Tucked in the Hooper’s Bay area, this private cottage is all about easy island living, with Hooper’s Bay and Hooper’s Bay Beach just a short walk away and Turtle Beach close enough to bike over when you’re feeling adventurous. Inside, you’ve got the essentials dialed in: A/C, internet/Wi-Fi, and a private kitchen, so you can do breakfast at home before heading out for saltwater therapy. It’s a simple, relaxed home base for beach days, snorkeling, and quick runs into George Town, with the airport only a short drive away.",
+    "description": "Tucked in the Hooperâ€™s Bay area, this private cottage is all about easy island living, with Hooperâ€™s Bay and Hooperâ€™s Bay Beach just a short walk away and Turtle Beach close enough to bike over when youâ€™re feeling adventurous. Inside, youâ€™ve got the essentials dialed in: A/C, internet/Wi-Fi, and a private kitchen, so you can do breakfast at home before heading out for saltwater therapy. Itâ€™s a simple, relaxed home base for beach days, snorkeling, and quick runs into George Town, with the airport only a short drive away.",
     "images": [
       "https://media.vrbo.com/lodging/95000000/94780000/94778800/94778701/300eea03.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/95000000/94780000/94778800/94778701/77c67c0e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -432,7 +466,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": true
+    "car": true,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Ocean Breeze Villa",
@@ -442,7 +478,7 @@
     "sleeps": 4,
     "bathrooms": 2,
     "price": 265,
-    "description": "",
+    "description": "Ocean Breeze Villa is a 2-bedroom getaway in Moss Town thatâ€™s made for easy island days and a calm home base between adventures. It offers 2 bedrooms, sleeps up to 4, and 2 bathrooms. Up in the Moss Town area, youâ€™re closer to the airport and an easy drive to beaches, town, and island road-trip stops. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://media.vrbo.com/lodging/110000000/109840000/109831600/109831535/236f00ac.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/110000000/109840000/109831600/109831535/efdf0414.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -455,7 +491,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "The Blue View",
@@ -465,7 +503,7 @@
     "sleeps": 3,
     "bathrooms": 1,
     "price": 220,
-    "description": "",
+    "description": "The Blue View is a 1-bedroom oceanfront stay in Moss Town thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 1 bedroom, sleeps up to 3, and 1 bathroom. Up in the Moss Town area, youâ€™re closer to the airport and an easy drive to beaches, town, and island road-trip stops. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://a0.muscache.com/im/pictures/miso/Hosting-756638941652161656/original/4ca3fc34-a91d-4ce7-b263-8634b59c078b.jpeg?im_w=1200",
       "https://a0.muscache.com/im/pictures/miso/Hosting-756638941652161656/original/473fa665-156b-4cef-b997-39fa2a1b9793.jpeg?im_w=1200",
@@ -478,7 +516,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "The Secret Botanical",
@@ -488,7 +528,7 @@
     "sleeps": 2,
     "bathrooms": 1,
     "price": 245,
-    "description": "",
+    "description": "The Secret Botanical is a 1-bedroom oceanfront stay in Ramsey thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 1 bedroom, sleeps up to 2, and 1 bathroom. In the Ramsey area, youâ€™re on the quieter side of Great Exuma with plenty of space to slow down and soak up the view. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://a0.muscache.com/im/pictures/miso/Hosting-745176246999177932/original/d2460af3-ee63-4435-9c1c-d29524f343cf.jpeg?im_w=1200",
       "https://a0.muscache.com/im/pictures/miso/Hosting-745176246999177932/original/d4d32287-674e-454f-a7cb-91cfcf5948ea.jpeg?im_w=1200",
@@ -501,7 +541,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Rezzy's Beach Cottage",
@@ -511,7 +553,7 @@
     "sleeps": 4,
     "bathrooms": 1.5,
     "price": 240,
-    "description": "",
+    "description": "Rezzy's Beach Cottage is a 2-bedroom oceanfront stay in Ramsey thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 2 bedrooms, sleeps up to 4, and 1.5 bathrooms. In the Ramsey area, youâ€™re on the quieter side of Great Exuma with plenty of space to slow down and soak up the view. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://a0.muscache.com/im/pictures/74d566aa-58c2-4780-9bf5-0afe82eea184.jpg?im_w=1200",
       "https://a0.muscache.com/im/pictures/12a13501-0a5d-4cb8-8025-94befef8bacd.jpg?im_w=1200",
@@ -524,7 +566,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Rebecca's Place 2",
@@ -534,7 +578,7 @@
     "sleeps": 2,
     "bathrooms": 1,
     "price": 140,
-    "description": "",
+    "description": "Rebecca's Place 2 is a 1-bedroom getaway in Jolly Hall thatâ€™s made for easy island days and a calm home base between adventures. It offers 1 bedroom, sleeps up to 2, and 1 bathroom. A comfortable base on Great Exuma for beach days, boat days, and doing absolutely nothing on purpose. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://media.vrbo.com/lodging/89000000/88260000/88252600/88252501/9e6c89ce.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/89000000/88260000/88252600/88252501/05b3bb49.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -547,7 +591,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Sunrise Serenade",
@@ -557,7 +603,7 @@
     "sleeps": 2,
     "bathrooms": 1,
     "price": 205,
-    "description": "",
+    "description": "Sunrise Serenade is a 1-bedroom oceanfront stay in Ramsey thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 1 bedroom, sleeps up to 2, and 1 bathroom. Highlights include kayaks for easy â€˜island modeâ€™ living. In the Ramsey area, youâ€™re on the quieter side of Great Exuma with plenty of space to slow down and soak up the view. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://a0.muscache.com/im/pictures/hosting/Hosting-1109422904410070977/original/54fb1ed0-e477-46bb-bdfc-261eec4b7dba.jpeg?im_w=1200",
       "https://a0.muscache.com/im/pictures/hosting/Hosting-1109422904410070977/original/ef0d7e4c-f8b4-447b-a2a1-b9a9dfe2af93.jpeg?im_w=960",
@@ -570,7 +616,9 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Tropical Treasures Living",
@@ -580,7 +628,7 @@
     "sleeps": 4,
     "bathrooms": 1,
     "price": 155,
-    "description": "",
+    "description": "Tropical Treasures Living is a 1-bedroom getaway in Farmer's Hill thatâ€™s made for easy island days and a calm home base between adventures. It offers 1 bedroom, sleeps up to 4, and 1 bathroom. In Farmerâ€™s Hill, youâ€™re central on Great Exuma for beach hopping north or south and popping into town when you feel like it. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://a0.muscache.com/im/pictures/hosting/Hosting-42650131/original/09fae780-5525-4b47-8491-181ef63d13b0.jpeg?im_w=1200",
       "https://a0.muscache.com/im/pictures/e636bdd4-e5fd-4f20-b3ac-d8f16983b6d9.jpg?im_w=1200",
@@ -593,7 +641,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Twin View",
@@ -603,7 +653,7 @@
     "sleeps": 4,
     "bathrooms": 2.5,
     "price": 470,
-    "description": "",
+    "description": "Twin View is a 2-bedroom getaway in Black Point thatâ€™s made for easy island days and a calm home base between adventures. It offers 2 bedrooms, sleeps up to 4, and 2.5 bathrooms. Based in Black Point (Exuma Cays), youâ€™re in a legendary island-hopping zone with that remote, turquoise-all-day energy. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://a0.muscache.com/im/pictures/hosting/Hosting-957224288294944785/original/56a55f06-06ec-4f05-837b-d9288ff89a44.jpeg?im_w=1200",
       "https://a0.muscache.com/im/pictures/hosting/Hosting-957224288294944785/original/47dd72cc-5678-47d9-a6b1-417ede20e6ab.jpeg?im_w=1200",
@@ -616,7 +666,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "The Pearl",
@@ -626,7 +678,7 @@
     "sleeps": 5,
     "bathrooms": 1,
     "price": 350,
-    "description": "",
+    "description": "The Pearl is a 2-bedroom getaway in Roker's Point thatâ€™s made for easy island days and a calm home base between adventures. It offers 2 bedrooms, sleeps up to 5, and 1 bathroom. In the Rokers Point area, youâ€™re near popular beaches and close enough to town for easy dining and supply runs. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://a0.muscache.com/im/pictures/1759a679-a68f-4ae4-8727-92532fb3edfb.jpg?im_w=1200",
       "https://a0.muscache.com/im/pictures/a3a829ca-6e95-4b42-b7af-9c06b45afe10.jpg?im_w=720",
@@ -639,7 +691,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Lil Cay Villa",
@@ -649,7 +703,7 @@
     "sleeps": 4,
     "bathrooms": 1,
     "price": 240,
-    "description": "",
+    "description": "Lil Cay Villa is a 1-bedroom getaway in Steventon thatâ€™s made for easy island days and a calm home base between adventures. It offers 1 bedroom, sleeps up to 4, and 1 bathroom. In Steventon, youâ€™re nicely placed between George Town conveniences and some of the islandâ€™s prettiest shorelines. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://a0.muscache.com/im/pictures/miso/Hosting-42847937/original/c1806f2c-840c-4db9-a91f-41e314f91cb6.jpeg?im_w=720",
       "https://a0.muscache.com/im/pictures/miso/Hosting-42847937/original/96aca30a-0242-4684-95fa-ae9f91045b03.jpeg?im_w=720",
@@ -662,7 +716,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Azure Escape",
@@ -672,7 +728,7 @@
     "sleeps": 6,
     "bathrooms": 2,
     "price": 275,
-    "description": "",
+    "description": "Azure Escape is a 2-bedroom oceanfront stay in Rolleville thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 2 bedrooms, sleeps up to 6, and 2 bathrooms. Highlights include car options for easy â€˜island modeâ€™ living. Based in Rolleville on the quiet southern end of Great Exuma, youâ€™re positioned for big-empty beaches, easygoing local spots, and classic â€˜south sideâ€™ peace. Locally owned and ideal for travelers who want their stay to support the island while keeping things simple and memorable.",
     "images": [
       "https://media.vrbo.com/lodging/77000000/76250000/76243700/76243677/c3730169.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/77000000/76250000/76243700/76243677/fc892525.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -685,7 +741,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": true
+    "car": true,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Dreammaker",
@@ -695,7 +753,7 @@
     "sleeps": 11,
     "bathrooms": 3,
     "price": 690,
-    "description": "A true toes-in-the-sand Exuma escape on Moriah Harbour in Hartswell, this beachfront villa pairs postcard views with the convenience of your own boat dock/mooring. Start mornings with coffee to the sound of waves, grill fresh catch for sunset dinners, and enjoy all the comforts between beach sessions, including A/C, a full kitchen, and in-home laundry. You’re perfectly positioned for exploring the south, with Rolletown Tombs, Tropic of Cancer Beach, and Little Exuma beaches just a short drive away.",
+    "description": "A true toes-in-the-sand Exuma escape on Moriah Harbour in Hartswell, this beachfront villa pairs postcard views with the convenience of your own boat dock/mooring. Start mornings with coffee to the sound of waves, grill fresh catch for sunset dinners, and enjoy all the comforts between beach sessions, including A/C, a full kitchen, and in-home laundry. Youâ€™re perfectly positioned for exploring the south, with Rolletown Tombs, Tropic of Cancer Beach, and Little Exuma beaches just a short drive away.",
     "images": [
       "https://media.vrbo.com/lodging/36000000/35560000/35552600/35552584/b6c972fc.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/36000000/35560000/35552600/35552584/90-91fedcab.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -711,7 +769,9 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "TheVine House",
@@ -721,7 +781,7 @@
     "sleeps": 6,
     "bathrooms": 2,
     "price": 720,
-    "description": "",
+    "description": "TheVine House is a 3-bedroom oceanfront stay in Hartswell thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 3 bedrooms, sleeps up to 6, and 2 bathrooms. Highlights include pool, and kayaks for easy â€˜island modeâ€™ living. Located in Hartswell, youâ€™re in prime position for Moriah Harbour vibes, quiet coastlines, and quick runs south toward Tropic of Cancer. A solid choice for travelers who want comfort, views, and a reliable base for exploring Exuma.",
     "images": [
       "https://media.vrbo.com/lodging/34000000/33560000/33551000/33550980/f4375a0f.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/34000000/33560000/33551000/33550980/e4d3000a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -739,7 +799,9 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "TheVine House 2",
@@ -749,7 +811,7 @@
     "sleeps": 2,
     "bathrooms": 1,
     "price": 360,
-    "description": "",
+    "description": "TheVine House 2 is a 1-bedroom oceanfront stay in Hartswell thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 1 bedroom, sleeps up to 2, and 1 bathroom. Highlights include pool, and kayaks for easy â€˜island modeâ€™ living. Located in Hartswell, youâ€™re in prime position for Moriah Harbour vibes, quiet coastlines, and quick runs south toward Tropic of Cancer. A solid choice for travelers who want comfort, views, and a reliable base for exploring Exuma.",
     "images": [
       "https://media.vrbo.com/lodging/62000000/61470000/61466600/61466527/55f828e8.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/62000000/61470000/61466600/61466527/ac490406.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -764,7 +826,9 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Serenity on Moriah",
@@ -774,7 +838,7 @@
     "sleeps": 12,
     "bathrooms": 5,
     "price": 1800,
-    "description": "",
+    "description": "Serenity on Moriah is a 5-bedroom oceanfront stay in Hartswell thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 5 bedrooms, sleeps up to 12, and 5 bathrooms. Highlights include pool, and kayaks for easy â€˜island modeâ€™ living. Located in Hartswell, youâ€™re in prime position for Moriah Harbour vibes, quiet coastlines, and quick runs south toward Tropic of Cancer. A solid choice for travelers who want comfort, views, and a reliable base for exploring Exuma.",
     "images": [
       "https://media.vrbo.com/lodging/96000000/95440000/95435400/95435310/14697edd.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/96000000/95440000/95435400/95435310/049bc284.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -794,7 +858,9 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Over Water Bungalow",
@@ -804,7 +870,7 @@
     "sleeps": 2,
     "bathrooms": 1,
     "price": 715,
-    "description": "Overwater bungalow in Masters Harbor with its own beach and views of Redshank Cays. 1BR/1BA with A/C, Wi-Fi, kitchenette, and shared laundry. Enjoy a private deck with direct ladder access into the sea. Set on a property with multiple homes, close to Brown’s Marina and Blu on the Water—10 min to George Town, 20 min to the airport.",
+    "description": "Overwater bungalow in Masters Harbor with its own beach and views of Redshank Cays. 1BR/1BA with A/C, Wi-Fi, kitchenette, and shared laundry. Enjoy a private deck with direct ladder access into the sea. Set on a property with multiple homes, close to Brownâ€™s Marina and Blu on the Waterâ€”10 min to George Town, 20 min to the airport.",
     "images": [
       "https://media.vrbo.com/lodging/101000000/100410000/100407900/100407809/d2ae21fa.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/101000000/100410000/100407900/100407809/031788a3.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -818,7 +884,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "The Mandrin House",
@@ -828,7 +896,7 @@
     "sleeps": 10,
     "bathrooms": 4,
     "price": 925,
-    "description": "Luxury meets laid-back island living at this waterfront home in Hartswell, perfectly positioned with postcard views across the shimmering waters toward Moriah Cay. Start your mornings with coffee on the deck as the sea turns from glass to turquoise, then spend the day exploring Exuma the way it’s meant to be done: beach hopping, sandbar cruising, snorkeling, and sunset watching from your own slice of shoreline. Inside, you’ll find a polished, upscale space designed for comfort after long days in the sun, with everything you need to settle in, slow down, and live on “island time.” Peaceful, private, and perfectly placed for adventure, this home is an ideal base for couples, families, or friends looking for a true Exuma escape with a luxury edge.",
+    "description": "Luxury meets laid-back island living at this waterfront home in Hartswell, perfectly positioned with postcard views across the shimmering waters toward Moriah Cay. Start your mornings with coffee on the deck as the sea turns from glass to turquoise, then spend the day exploring Exuma the way itâ€™s meant to be done: beach hopping, sandbar cruising, snorkeling, and sunset watching from your own slice of shoreline. Inside, youâ€™ll find a polished, upscale space designed for comfort after long days in the sun, with everything you need to settle in, slow down, and live on â€œisland time.â€ Peaceful, private, and perfectly placed for adventure, this home is an ideal base for couples, families, or friends looking for a true Exuma escape with a luxury edge.",
     "images": [
       "https://media.vrbo.com/lodging/20000000/19890000/19882800/19882714/d5127844.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/20000000/19890000/19882800/19882714/d3342756.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -849,7 +917,9 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "GOTA",
@@ -859,7 +929,7 @@
     "sleeps": 10,
     "bathrooms": 3,
     "price": 960,
-    "description": "",
+    "description": "GOTA is a 4-bedroom oceanfront stay in Masters Harbor thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 4 bedrooms, sleeps up to 10, and 3 bathrooms. In the Masters Harbor area, youâ€™re close to George Town while still feeling tucked away on the water. A solid choice for travelers who want comfort, views, and a reliable base for exploring Exuma.",
     "images": [
       "https://media.vrbo.com/lodging/101000000/100410000/100407200/100407197/35754836.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/101000000/100410000/100407200/100407197/2bb7e99e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -876,7 +946,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "GOTA waterfront",
@@ -886,7 +958,7 @@
     "sleeps": 8,
     "bathrooms": 3,
     "price": 860,
-    "description": "",
+    "description": "GOTA waterfront is a 4-bedroom oceanfront stay in Masters Harbor thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 4 bedrooms, sleeps up to 8, and 3 bathrooms. In the Masters Harbor area, youâ€™re close to George Town while still feeling tucked away on the water. A solid choice for travelers who want comfort, views, and a reliable base for exploring Exuma.",
     "images": [
       "https://media.vrbo.com/lodging/101000000/100410000/100406900/100406862/2c92ee60.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/101000000/100410000/100406900/100406862/38e98a3a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -903,7 +975,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Garden Enclave",
@@ -913,7 +987,7 @@
     "sleeps": 2,
     "bathrooms": 1,
     "price": 500,
-    "description": "",
+    "description": "Garden Enclave is a 1-bedroom getaway in Grande Isle Rokers Pointe thatâ€™s made for easy island days and a calm home base between adventures. It offers 1 bedroom, sleeps up to 2, and 1 bathroom. Highlights include pool, and gym access for easy â€˜island modeâ€™ living. In the Rokers Point area, youâ€™re near popular beaches and close enough to town for easy dining and supply runs. A solid choice for travelers who want comfort, views, and a reliable base for exploring Exuma.",
     "images": [
       "https://media.vrbo.com/lodging/112000000/111160000/111152800/111152784/2cc079e9.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/112000000/111160000/111152800/111152784/35403428.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -925,7 +999,9 @@
     "gym": true,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Regatta Point",
@@ -935,7 +1011,7 @@
     "sleeps": 1,
     "bathrooms": 1,
     "price": 310,
-    "description": "",
+    "description": "Regatta Point is a 1-bedroom oceanfront stay in George Town thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 1 bedroom, sleeps up to 1, and 1 bathroom. Highlights include kayaks for easy â€˜island modeâ€™ living. Right around George Town, youâ€™re close to marinas, groceries, restaurants, and easy access to Elizabeth Harbour adventures. A solid choice for travelers who want comfort, views, and a reliable base for exploring Exuma.",
     "images": [
       "https://media.vrbo.com/lodging/35000000/34530000/34523200/34523118/899218b6.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/35000000/34530000/34523200/34523118/a80f03d8.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -948,7 +1024,9 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Hideaways George Town",
@@ -958,7 +1036,7 @@
     "sleeps": 2,
     "bathrooms": 1,
     "price": 250,
-    "description": "",
+    "description": "Hideaways George Town is a 1-bedroom oceanfront stay in George Town thatâ€™s built for salt-air mornings and â€˜one more swimâ€™ evenings. It offers 1 bedroom, sleeps up to 2, and 1 bathroom. Right around George Town, youâ€™re close to marinas, groceries, restaurants, and easy access to Elizabeth Harbour adventures. A solid choice for travelers who want comfort, views, and a reliable base for exploring Exuma.",
     "images": [
       "https://img1.wsimg.com/isteam/ip/f4950802-4139-43d5-8ebc-2cdb03345a5f/Exuma%20Secrets_%20Tropical%20Paradise%20Preview.png/:/rs=w:95,h:68,cg:true,m/cr=w:95,h:68,a:cc"
     ],
@@ -968,138 +1046,148 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
-  "title": "J&L Beachfront Bliss",
-  "ownership": "Bahamian",
-  "location": "Rolleville",
-  "bedrooms": 2,
-  "sleeps": 5,
-  "bathrooms": 1,
-  "price": 240,
-  "description": "Bright, breezy 2-bedroom beachfront suite in Rolleville with direct beach access just steps away and gorgeous ocean views from your private patio. Includes a fully equipped kitchen, fast Wi-Fi, A/C, smart TV, beach gear (chairs, towels, cooler, umbrella), and free on-site parking. Quiet, peaceful location near Da Cabana Bar & Grill, and convenient to local eats, shops, and popular boat tours. Private entrance and fully private unit; beach path may be shared with guests on the other side of the duplex.",
-  "images": [
-    "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/0a8a650e-16c4-468e-aac5-6ded3bae2ce5.jpeg?im_w=1200",
-    "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/a86fb917-a3d4-4523-a847-bed27af8fd35.jpeg?im_w=1200",
-    "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/eebc3096-c947-4bbf-a254-3b8e7554e5b3.jpeg?im_w=720",
-    "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/1decf775-9d67-42f7-a3d0-0881fedcdcbe.jpeg?im_w=1200",
-    "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/718ab30f-bd13-4563-aa48-3c35fe8fe1a2.jpeg?im_w=720"
-  ],
-  "url": "https://www.airbnb.com/rooms/499152465998616111?guests=1&adults=1&s=67&unique_share_id=ba45418a-1e2c-4ad2-9097-9bce42bc6745",
-  "pool": false,
-  "oceanfront": true,
-  "gym": false,
-  "kayak": false,
-  "boat": false,
-  "car": false
-},
+    "title": "J&L Beachfront Bliss",
+    "ownership": "Bahamian",
+    "location": "Rolleville",
+    "bedrooms": 2,
+    "sleeps": 5,
+    "bathrooms": 1,
+    "price": 240,
+    "description": "Bright, breezy 2-bedroom beachfront suite in Rolleville with direct beach access just steps away and gorgeous ocean views from your private patio. Includes a fully equipped kitchen, fast Wi-Fi, A/C, smart TV, beach gear (chairs, towels, cooler, umbrella), and free on-site parking. Quiet, peaceful location near Da Cabana Bar & Grill, and convenient to local eats, shops, and popular boat tours. Private entrance and fully private unit; beach path may be shared with guests on the other side of the duplex.",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/0a8a650e-16c4-468e-aac5-6ded3bae2ce5.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/a86fb917-a3d4-4523-a847-bed27af8fd35.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/eebc3096-c947-4bbf-a254-3b8e7554e5b3.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/1decf775-9d67-42f7-a3d0-0881fedcdcbe.jpeg?im_w=1200",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-499152465998616111/original/718ab30f-bd13-4563-aa48-3c35fe8fe1a2.jpeg?im_w=720"
+    ],
+    "url": "https://www.airbnb.com/rooms/499152465998616111?guests=1&adults=1&s=67&unique_share_id=ba45418a-1e2c-4ad2-9097-9bce42bc6745",
+    "pool": false,
+    "oceanfront": true,
+    "gym": false,
+    "kayak": false,
+    "boat": false,
+    "car": false,
+    "hot_tub": false,
+    "beds": null
+  },
   {
-  "title": "Saint Francis Resort & Marina",
-  "ownership": "Foreign",
-  "location": "Stocking Island (George Town)",
-  "bedrooms": 1,
-  "sleeps": 2,
-  "bathrooms": 1,
-  "price": 300,
-  "description": "Saint Francis Resort & Marina is a laid-back, beachfront hideaway on Stocking Island, just across the water from George Town. It’s the kind of place you book when you want quiet mornings, salty air, and the feeling that the island is running on its own gentle clock. Guests have direct beach access, an on-site pool, and a waterfront restaurant and bar for easy island meals without hopping back and forth. Boaters love it too, thanks to the marina/dock setup, and it’s a great base for exploring Elizabeth Harbour, Chat ‘N’ Chill, sandbars, and all the classic Exuma boat-day magic. If you’re looking for a relaxed, ‘toes-in-the-sand’ stay that still keeps you close to town, this one checks a lot of boxes.",
-  "images": [
-    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/f89dc131.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/d4424aff.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/89abff40.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/68fdc02c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/18da9673.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/3704fc49.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/ec0943d5.jpg?impolicy=resizecrop&rw=1200&ra=fit"
-  ],
-  "url": "https://expedia.com/affiliates/stocking-island-hotels-saint-francis-resort.hXwgNj6",
-  "pool": true,
-  "oceanfront": true,
-  "gym": false,
-  "kayak": false,
-  "boat": true,
-  "car": false
-},
+    "title": "Saint Francis Resort & Marina",
+    "ownership": "Foreign",
+    "location": "Stocking Island (George Town)",
+    "bedrooms": 1,
+    "sleeps": 2,
+    "bathrooms": 1,
+    "price": 300,
+    "description": "Saint Francis Resort & Marina is a laid-back, beachfront hideaway on Stocking Island, just across the water from George Town. Itâ€™s the kind of place you book when you want quiet mornings, salty air, and the feeling that the island is running on its own gentle clock. Guests have direct beach access, an on-site pool, and a waterfront restaurant and bar for easy island meals without hopping back and forth. Boaters love it too, thanks to the marina/dock setup, and itâ€™s a great base for exploring Elizabeth Harbour, Chat â€˜Nâ€™ Chill, sandbars, and all the classic Exuma boat-day magic. If youâ€™re looking for a relaxed, â€˜toes-in-the-sandâ€™ stay that still keeps you close to town, this one checks a lot of boxes.",
+    "images": [
+      "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/f89dc131.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/d4424aff.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/89abff40.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/68fdc02c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/18da9673.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/3704fc49.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/39000000/38920000/38916400/38916395/ec0943d5.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    ],
+    "url": "https://expedia.com/affiliates/stocking-island-hotels-saint-francis-resort.hXwgNj6",
+    "pool": true,
+    "oceanfront": true,
+    "gym": false,
+    "kayak": false,
+    "boat": true,
+    "car": false,
+    "hot_tub": false,
+    "beds": null
+  },
   {
-  "title": "SerenityBlu - Your Dream Come True!",
-  "ownership": "Bahamian",
-  "location": "Rolle Town",
-  "bedrooms": 2,
-  "sleeps": 6,
-  "bathrooms": 2,
-  "price": 0,
-  "description": "SerenityBlu is a bright, modern ocean-view escape in Rolle Town that’s built for true “Exuma exhale” mode. With 2 bedrooms, 2 bathrooms, and 4 beds (plus space to sleep up to 6), it’s a great fit for couples, families, or a small crew who want comfort without losing that island vibe. The highlight is the private outdoor hot tub, perfect for sunset soaks after a boat day. Inside, you’ll find A/C, fast Wi-Fi, and an easy, open layout designed for relaxing between beach runs, sandbar adventures, and meals at nearby local spots. Quiet location, big views, and close enough to the action when you want it.",
-  "images": [
-    "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/f6c351fe.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/f294af0d.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/c1447035.png?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/7cc12094.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/a21bae52.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/3e90db64.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/eeb60b83-a810-4d9b-aea5-dc9f22d0497a.jpeg?im_w=720",
-    "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/94c015ce-929e-4dbd-9c98-1af6a14f1249.jpeg?im_w=720",
-    "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/67e0f9f4-e8fe-4c3f-9ba9-166092f7d8cc.jpeg?im_w=720",
-    "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/4e64a000-fee1-433e-99c0-6c18fd5596b8.jpeg?im_w=720",
-    "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/e8b63386-bbee-4957-b378-f59d7998bc00.jpeg?im_w=720",
-    "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/dfefc561-6ed4-49fe-8e31-321999572cd0.jpeg?im_w=720"
-  ],
-  "url": "https://expedia.com/affiliates/serenityblu-your-dream-come-true-beautiful-rolletown.7QA7DCz",
-  "pool": false,
-  "oceanfront": false,
-  "gym": false,
-  "kayak": false,
-  "boat": false,
-  "car": false,
-  "hot_tub": true,
-  "beds": 4
-},
-{
-  "title": "Master Suite Villa at Calm Water Villas",
-  "ownership": "Foreign",
-  "location": "Bahama Sound",
-  "bedrooms": 1,
-  "sleeps": 2,
-  "bathrooms": 1,
-  "price": 500,
-  "description": "A beachfront master suite villa at Calm Water Villas in Bahama Sound, Exuma, built for quiet, toes-in-the-sand relaxation. Enjoy your own private pool, a breezy terrace/patio, air conditioning, a washer, BBQ grill, and convenient on-site parking. You’re also a short drive from Rolletown Tombs, Palm Bay Beach, Jolly Hall Beach, and Exuma International Airport (GGT)—making it a peaceful home base with easy access to the best of Great Exuma.",
-  "images": [
-    "https://images.trvl-media.com/lodging/119000000/118700000/118691800/118691754/1acb38fa.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://images.trvl-media.com/lodging/119000000/118700000/118691800/118691754/f592616d.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "https://images.trvl-media.com/lodging/119000000/118700000/118691800/118691754/48876c56.jpg?impolicy=resizecrop&rw=1200&ra=fit"
-  ],
-  "url": "https://expedia.com/affiliates/nassau-hotels-luxury-meets-tranquility-master-suite-villa-at-calm-water-villas.xfid7Qh",
-  "pool": true,
-  "oceanfront": true,
-  "gym": false,
-  "kayak": true,
-  "boat": false,
-  "car": false
-},
+    "title": "SerenityBlu - Your Dream Come True!",
+    "ownership": "Bahamian",
+    "location": "Rolle Town",
+    "bedrooms": 2,
+    "sleeps": 6,
+    "bathrooms": 2,
+    "price": 0,
+    "description": "SerenityBlu is a bright, modern ocean-view escape in Rolle Town thatâ€™s built for true â€œExuma exhaleâ€ mode. With 2 bedrooms, 2 bathrooms, and 4 beds (plus space to sleep up to 6), itâ€™s a great fit for couples, families, or a small crew who want comfort without losing that island vibe. The highlight is the private outdoor hot tub, perfect for sunset soaks after a boat day. Inside, youâ€™ll find A/C, fast Wi-Fi, and an easy, open layout designed for relaxing between beach runs, sandbar adventures, and meals at nearby local spots. Quiet location, big views, and close enough to the action when you want it.",
+    "images": [
+      "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/f6c351fe.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/f294af0d.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/c1447035.png?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/7cc12094.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/a21bae52.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/113000000/112570000/112562700/112562637/3e90db64.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/eeb60b83-a810-4d9b-aea5-dc9f22d0497a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/94c015ce-929e-4dbd-9c98-1af6a14f1249.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/67e0f9f4-e8fe-4c3f-9ba9-166092f7d8cc.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/4e64a000-fee1-433e-99c0-6c18fd5596b8.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/e8b63386-bbee-4957-b378-f59d7998bc00.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1343060957688869044/original/dfefc561-6ed4-49fe-8e31-321999572cd0.jpeg?im_w=720"
+    ],
+    "url": "https://expedia.com/affiliates/serenityblu-your-dream-come-true-beautiful-rolletown.7QA7DCz",
+    "pool": false,
+    "oceanfront": false,
+    "gym": false,
+    "kayak": false,
+    "boat": false,
+    "car": false,
+    "hot_tub": true,
+    "beds": 4
+  },
   {
-  "title": "Newly Remodeled Unit at the Hideaways",
-  "ownership": "Foreign",
-  "location": "George Town",
-  "bedrooms": 2,
-  "sleeps": 6,
-  "bathrooms": 2,
-  "price": 0,
-  "description": "Fresh, bright, and newly remodeled, this 2-bedroom, 2-bath Hideaways condo is a comfortable home base in George Town for families or small groups. With space to sleep up to six, it’s ideal for beach days, boat days, and exploring town without feeling cramped. Enjoy a full kitchen, A/C, Wi-Fi, and all the convenience of a condo stay, plus Hideaways complex amenities like the pool, hot tub, fitness area, and tennis courts. A great pick if you want an easy, central spot to recharge between Exuma adventures.",
-  "images": [
-    "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/5dddf546.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/a3b0c2e3.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/5676055b.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/d71c2f56.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/72b7aad6.jpg?impolicy=resizecrop&ra=fit&rw=1200"
-  ],
-  "url": "https://expedia.com/affiliates/george-town-hotels-newly-remodeled-unit-at-the-hideaways.CwHULMa",
-  "pool": true,
-  "oceanfront": false,
-  "gym": true,
-  "kayak": false,
-  "boat": false,
-  "car": false
-},
-   {
+    "title": "Master Suite Villa at Calm Water Villas",
+    "ownership": "Foreign",
+    "location": "Bahama Sound",
+    "bedrooms": 1,
+    "sleeps": 2,
+    "bathrooms": 1,
+    "price": 500,
+    "description": "A beachfront master suite villa at Calm Water Villas in Bahama Sound, Exuma, built for quiet, toes-in-the-sand relaxation. Enjoy your own private pool, a breezy terrace/patio, air conditioning, a washer, BBQ grill, and convenient on-site parking. Youâ€™re also a short drive from Rolletown Tombs, Palm Bay Beach, Jolly Hall Beach, and Exuma International Airport (GGT)â€”making it a peaceful home base with easy access to the best of Great Exuma.",
+    "images": [
+      "https://images.trvl-media.com/lodging/119000000/118700000/118691800/118691754/1acb38fa.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/119000000/118700000/118691800/118691754/f592616d.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/119000000/118700000/118691800/118691754/48876c56.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    ],
+    "url": "https://expedia.com/affiliates/nassau-hotels-luxury-meets-tranquility-master-suite-villa-at-calm-water-villas.xfid7Qh",
+    "pool": true,
+    "oceanfront": true,
+    "gym": false,
+    "kayak": true,
+    "boat": false,
+    "car": false,
+    "hot_tub": false,
+    "beds": null
+  },
+  {
+    "title": "Newly Remodeled Unit at the Hideaways",
+    "ownership": "Foreign",
+    "location": "George Town",
+    "bedrooms": 2,
+    "sleeps": 6,
+    "bathrooms": 2,
+    "price": 0,
+    "description": "Fresh, bright, and newly remodeled, this 2-bedroom, 2-bath Hideaways condo is a comfortable home base in George Town for families or small groups. With space to sleep up to six, itâ€™s ideal for beach days, boat days, and exploring town without feeling cramped. Enjoy a full kitchen, A/C, Wi-Fi, and all the convenience of a condo stay, plus Hideaways complex amenities like the pool, hot tub, fitness area, and tennis courts. A great pick if you want an easy, central spot to recharge between Exuma adventures.",
+    "images": [
+      "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/5dddf546.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/a3b0c2e3.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/5676055b.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/d71c2f56.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/72b7aad6.jpg?impolicy=resizecrop&ra=fit&rw=1200"
+    ],
+    "url": "https://expedia.com/affiliates/george-town-hotels-newly-remodeled-unit-at-the-hideaways.CwHULMa",
+    "pool": true,
+    "oceanfront": false,
+    "gym": true,
+    "kayak": false,
+    "boat": false,
+    "car": false,
+    "hot_tub": false,
+    "beds": null
+  },
+  {
     "title": "Vern's Place",
     "ownership": "Bahamian",
     "location": "Rolleville",
@@ -1118,7 +1206,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "The Bayinn 6",
@@ -1139,7 +1229,9 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": true
+    "car": true,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "The Flat - Rolleville Exuma Bahamas",
@@ -1163,7 +1255,9 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
     "title": "Lil Cay Villa (Newly Renovated Kitchen)",
@@ -1193,107 +1287,117 @@
     "gym": false,
     "kayak": false,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
-  "title": "Exuma Point Villas – Swimming Pigs Resort (Green Lignam Vitae)",
-  "ownership": "Bahamian",
-  "location": "Rolleville",
-  "bedrooms": 2,
-  "sleeps": 4,
-  "bathrooms": 2,
-  "price": 244,
-  "description": "Oceanfront villas and cottages in Rolleville with panoramic harbor views and a long private beach. Located about 11 miles from Exuma International Airport and roughly 0.5 miles from Pig Beach, with easy access to swimming pigs, snorkeling, fishing, and on-site dining at Exuma Point Beach Bar & Grill. Jet skis, skiffs, and boats may be available for rent at the dock, and tours can be arranged.",
-  "images": [
-    "https://images.trvl-media.com/lodging/67000000/66900000/66890900/66890863/dfe8066a.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://images.trvl-media.com/lodging/67000000/66900000/66890900/66890863/w1064h717x0y0-8d8e415e.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://images.trvl-media.com/lodging/67000000/66900000/66890900/66890863/w1600h1069x0y4-97f532b0.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://images.trvl-media.com/lodging/67000000/66900000/66890900/66890863/w1080h828x0y0-e77ff299.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://images.trvl-media.com/lodging/67000000/66900000/66890900/66890863/36e74336.jpg?impolicy=resizecrop&ra=fit&rw=1200"
-  ],
-  "url": "https://expedia.com/affiliates/rolleville-hotels-exuma-point-villas-swimming-pigs-resort-green-lignam-vitae.0V5r5EH",
-  "pool": false,
-  "oceanfront": true,
-  "gym": false,
-  "kayak": false,
-  "boat": true,
-  "car": true
-},
+    "title": "Exuma Point Villas â€“ Swimming Pigs Resort (Green Lignam Vitae)",
+    "ownership": "Bahamian",
+    "location": "Rolleville",
+    "bedrooms": 2,
+    "sleeps": 4,
+    "bathrooms": 2,
+    "price": 244,
+    "description": "Oceanfront villas and cottages in Rolleville with panoramic harbor views and a long private beach. Located about 11 miles from Exuma International Airport and roughly 0.5 miles from Pig Beach, with easy access to swimming pigs, snorkeling, fishing, and on-site dining at Exuma Point Beach Bar & Grill. Jet skis, skiffs, and boats may be available for rent at the dock, and tours can be arranged.",
+    "images": [
+      "https://images.trvl-media.com/lodging/67000000/66900000/66890900/66890863/dfe8066a.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://images.trvl-media.com/lodging/67000000/66900000/66890900/66890863/w1064h717x0y0-8d8e415e.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://images.trvl-media.com/lodging/67000000/66900000/66890900/66890863/w1600h1069x0y4-97f532b0.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://images.trvl-media.com/lodging/67000000/66900000/66890900/66890863/w1080h828x0y0-e77ff299.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://images.trvl-media.com/lodging/67000000/66900000/66890900/66890863/36e74336.jpg?impolicy=resizecrop&ra=fit&rw=1200"
+    ],
+    "url": "https://expedia.com/affiliates/rolleville-hotels-exuma-point-villas-swimming-pigs-resort-green-lignam-vitae.0V5r5EH",
+    "pool": false,
+    "oceanfront": true,
+    "gym": false,
+    "kayak": false,
+    "boat": true,
+    "car": true,
+    "hot_tub": false,
+    "beds": null
+  },
   {
-  "title": "Exuma Beach Point (Deluxe Villa, 2 Bedrooms)",
-  "ownership": "Bahamian",
-  "location": "Rolleville",
-  "bedrooms": 2,
-  "sleeps": 4,
-  "bathrooms": 1,
-  "price": 247,
-  "description": "Exuma Beach Point is a beachfront stay in Rolleville, Great Exuma, close to Exuma Point and the famous swimming pigs area. A great pick for travelers looking for an Exuma beach getaway with easy ocean access, on-site beach vibes, and simple comfort. The 2-bedroom villa layout is ideal for couples, friends, or small families who want a convenient base for exploring the island. Popular search fit: Exuma beachfront villa, Rolleville rentals, Exuma family stays, near Exuma Point.",
-  "images": [
-    "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/3b502468.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/w829h828x0y0-e452967b.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/19803b3d.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/1efe51cc.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/17d20155.jpg?h=800&impolicy=fcrop&quality=medium&w=1200",
-    "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/085f70ac.jpg?h=800&impolicy=fcrop&quality=medium&w=1200",
-    "https://images.trvl-media.com/lodging/2000000/1740000/1737600/1737600/aa39bf0b.jpg?h=201&impolicy=fcrop&p=1&q=medium&w=1200"
-  ],
-  "url": "https://expedia.com/affiliates/rolleville-hotels-exuma-beach-point.CvWMBVE",
-  "pool": false,
-  "oceanfront": true,
-  "gym": false,
-  "kayak": false,
-  "boat": false,
-  "car": false
-},
+    "title": "Exuma Beach Point (Deluxe Villa, 2 Bedrooms)",
+    "ownership": "Bahamian",
+    "location": "Rolleville",
+    "bedrooms": 2,
+    "sleeps": 4,
+    "bathrooms": 1,
+    "price": 247,
+    "description": "Exuma Beach Point is a beachfront stay in Rolleville, Great Exuma, close to Exuma Point and the famous swimming pigs area. A great pick for travelers looking for an Exuma beach getaway with easy ocean access, on-site beach vibes, and simple comfort. The 2-bedroom villa layout is ideal for couples, friends, or small families who want a convenient base for exploring the island. Popular search fit: Exuma beachfront villa, Rolleville rentals, Exuma family stays, near Exuma Point.",
+    "images": [
+      "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/3b502468.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/w829h828x0y0-e452967b.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/19803b3d.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/1efe51cc.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/17d20155.jpg?h=800&impolicy=fcrop&quality=medium&w=1200",
+      "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/085f70ac.jpg?h=800&impolicy=fcrop&quality=medium&w=1200",
+      "https://images.trvl-media.com/lodging/2000000/1740000/1737600/1737600/aa39bf0b.jpg?h=201&impolicy=fcrop&p=1&q=medium&w=1200"
+    ],
+    "url": "https://expedia.com/affiliates/rolleville-hotels-exuma-beach-point.CvWMBVE",
+    "pool": false,
+    "oceanfront": true,
+    "gym": false,
+    "kayak": false,
+    "boat": false,
+    "car": false,
+    "hot_tub": false,
+    "beds": null
+  },
   {
-  "title": "Exuma Beach Point (Deluxe Studio)",
-  "ownership": "Bahamian",
-  "location": "Rolleville",
-  "bedrooms": 0,
-  "sleeps": 2,
-  "bathrooms": 1,
-  "price": 247,
-  "description": "Beachfront stay in Rolleville with a cozy Deluxe Studio setup (partial ocean view). Great for couples who want a quiet base near Exuma Point, with easy beach time, sunsets, and quick access to island adventures.",
-  "images": [
-    "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/17d20155.jpg?h=800&impolicy=fcrop&quality=medium&w=1200",
-    "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/3b502468.jpg?impolicy=resizecrop&ra=fit&rw=598",
-    "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/1efe51cc.jpg?impolicy=resizecrop&ra=fit&rw=297",
-    "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/19803b3d.jpg?impolicy=resizecrop&ra=fit&rw=297",
-    "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/w829h828x0y0-e452967b.jpg?impolicy=resizecrop&ra=fit&rw=297"
-  ],
-  "url": "https://expedia.com/affiliates/rolleville-hotels-exuma-beach-point.CvWMBVE",
-  "pool": false,
-  "oceanfront": true,
-  "gym": false,
-  "kayak": false,
-  "boat": false,
-  "car": false
-},
-{
-  "title": "CocoPlum: Sandy Isle Escapes (Formerly Shoreline Beach Club)",
-  "ownership": "Bahamian",
-  "location": "Rolleville",
-  "bedrooms": 1,
-  "sleeps": 4,
-  "bathrooms": 1,
-  "price": 269,
-  "description": "Beachfront stay in Rolleville at Sandy Isle Escapes (formerly Shoreline Beach Club), with direct access to soft white sand and Exuma’s crystal-clear water. The CocoPlum unit sleeps 4 with 1 bedroom and 1 bathroom, plus a kitchenette (coffee pot, microwave, toaster, portable stove), Wi-Fi, and a porch/lanai for ocean-breeze mornings. On-site dining is available with a restaurant and bar overlooking the beach. Adults-only, smoke-free, and a great base near Pig Beach and Coco Plum Beach for exploring the island by car. Drive on the left.",
-  "images": [
-    "https://media.vrbo.com/lodging/40000000/39410000/39406700/39406624/e2e58a68.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://media.vrbo.com/lodging/40000000/39410000/39406700/39406624/9564c613.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://media.vrbo.com/lodging/40000000/39410000/39406700/39406624/8766fec0.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://media.vrbo.com/lodging/40000000/39410000/39406700/39406624/39cc344f.jpg?impolicy=resizecrop&ra=fit&rw=1200",
-    "https://media.vrbo.com/lodging/40000000/39410000/39406700/39406624/ad18cdd6.jpg?impolicy=resizecrop&ra=fit&rw=1200"
-  ],
-  "url": "https://www.vrbo.com/1729008",
-  "pool": false,
-  "oceanfront": true,
-  "gym": false,
-  "kayak": false,
-  "boat": false,
-  "car": false
-},
- {
+    "title": "Exuma Beach Point (Deluxe Studio)",
+    "ownership": "Bahamian",
+    "location": "Rolleville",
+    "bedrooms": 0,
+    "sleeps": 2,
+    "bathrooms": 1,
+    "price": 247,
+    "description": "Beachfront stay in Rolleville with a cozy Deluxe Studio setup (partial ocean view). Great for couples who want a quiet base near Exuma Point, with easy beach time, sunsets, and quick access to island adventures.",
+    "images": [
+      "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/17d20155.jpg?h=800&impolicy=fcrop&quality=medium&w=1200",
+      "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/3b502468.jpg?impolicy=resizecrop&ra=fit&rw=598",
+      "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/1efe51cc.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/19803b3d.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/112000000/111410000/111406000/111405909/w829h828x0y0-e452967b.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "url": "https://expedia.com/affiliates/rolleville-hotels-exuma-beach-point.CvWMBVE",
+    "pool": false,
+    "oceanfront": true,
+    "gym": false,
+    "kayak": false,
+    "boat": false,
+    "car": false,
+    "hot_tub": false,
+    "beds": null
+  },
+  {
+    "title": "CocoPlum: Sandy Isle Escapes (Formerly Shoreline Beach Club)",
+    "ownership": "Bahamian",
+    "location": "Rolleville",
+    "bedrooms": 1,
+    "sleeps": 4,
+    "bathrooms": 1,
+    "price": 269,
+    "description": "Beachfront stay in Rolleville at Sandy Isle Escapes (formerly Shoreline Beach Club), with direct access to soft white sand and Exumaâ€™s crystal-clear water. The CocoPlum unit sleeps 4 with 1 bedroom and 1 bathroom, plus a kitchenette (coffee pot, microwave, toaster, portable stove), Wi-Fi, and a porch/lanai for ocean-breeze mornings. On-site dining is available with a restaurant and bar overlooking the beach. Adults-only, smoke-free, and a great base near Pig Beach and Coco Plum Beach for exploring the island by car. Drive on the left.",
+    "images": [
+      "https://media.vrbo.com/lodging/40000000/39410000/39406700/39406624/e2e58a68.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://media.vrbo.com/lodging/40000000/39410000/39406700/39406624/9564c613.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://media.vrbo.com/lodging/40000000/39410000/39406700/39406624/8766fec0.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://media.vrbo.com/lodging/40000000/39410000/39406700/39406624/39cc344f.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+      "https://media.vrbo.com/lodging/40000000/39410000/39406700/39406624/ad18cdd6.jpg?impolicy=resizecrop&ra=fit&rw=1200"
+    ],
+    "url": "https://www.vrbo.com/1729008",
+    "pool": false,
+    "oceanfront": true,
+    "gym": false,
+    "kayak": false,
+    "boat": false,
+    "car": false,
+    "hot_tub": false,
+    "beds": null
+  },
+  {
     "title": "Exuma's Best Kept Secret",
     "ownership": "Bahamian",
     "location": "Rolleville",
@@ -1312,34 +1416,38 @@
     "gym": false,
     "kayak": true,
     "boat": false,
-    "car": false
+    "car": false,
+    "hot_tub": false,
+    "beds": null
   },
   {
-  "title": "Frangipani Beachfront Villa",
-  "ownership": "Bahamian",
-  "location": "Rolleville",
-  "bedrooms": 2,
-  "sleeps": 6,
-  "bathrooms": 2,
-  "price": 663,
-  "description": "Beachfront 2BR/2BA villa in Rolleville with a private, quiet stretch of sand right out front. Modern interior with central A/C, fast WiFi, washer/dryer, and smart TVs. Relax on the deck with loungers and beach towels, then hop in the included kayaks or grab the snorkel gear for an easy adventure. About 20 minutes from Exuma International Airport and close to top attractions like the swimming pigs area and the Coco Plum sandbars. Concierge services may be available on request; grocery pre-stocking may be available for an added cost.",
-  "images": [
-    "https://images.trvl-media.com/lodging/67000000/66930000/66921300/66921290/2e9e6ead.jpg?impolicy=resizecrop&ra=fit&rw=598",
-    "https://images.trvl-media.com/lodging/67000000/66930000/66921300/66921290/c67d27c9.jpg?impolicy=resizecrop&ra=fit&rw=297",
-    "https://images.trvl-media.com/lodging/67000000/66930000/66921300/66921290/b24ba610.jpg?impolicy=resizecrop&ra=fit&rw=297",
-    "https://images.trvl-media.com/lodging/67000000/66930000/66921300/66921290/142c72a6.jpg?impolicy=resizecrop&ra=fit&rw=297",
-    "https://images.trvl-media.com/lodging/67000000/66930000/66921300/66921290/9a073daa.jpg?impolicy=resizecrop&ra=fit&rw=297",
-    "https://a0.muscache.com/im/pictures/miso/Hosting-47861979/original/f483d84f-5044-4b37-bd94-2978b0589276.jpeg?im_w=720",
-    "https://a0.muscache.com/im/pictures/7e30b756-24e3-4cd8-8b8f-5c65a19f8f52.jpg?im_w=720",
-    "https://a0.muscache.com/im/pictures/5f47c960-95ec-4bdd-8fb8-1dadd7807b55.jpg?im_w=720",
-    "https://a0.muscache.com/im/pictures/miso/Hosting-47861979/original/93f35468-769e-425d-8f9c-23cfaae538e6.jpeg?im_w=720"
-  ],
-  "url": "https://expedia.com/affiliates/rolleville-hotels-frangipani-beachfront-villa-just-steps-away-from-your-very-own-beach.kbmpEu2",
-  "pool": false,
-  "oceanfront": true,
-  "gym": false,
-  "kayak": true,
-  "boat": false,
-  "car": false
-}
+    "title": "Frangipani Beachfront Villa",
+    "ownership": "Bahamian",
+    "location": "Rolleville",
+    "bedrooms": 2,
+    "sleeps": 6,
+    "bathrooms": 2,
+    "price": 663,
+    "description": "Beachfront 2BR/2BA villa in Rolleville with a private, quiet stretch of sand right out front. Modern interior with central A/C, fast WiFi, washer/dryer, and smart TVs. Relax on the deck with loungers and beach towels, then hop in the included kayaks or grab the snorkel gear for an easy adventure. About 20 minutes from Exuma International Airport and close to top attractions like the swimming pigs area and the Coco Plum sandbars. Concierge services may be available on request; grocery pre-stocking may be available for an added cost.",
+    "images": [
+      "https://images.trvl-media.com/lodging/67000000/66930000/66921300/66921290/2e9e6ead.jpg?impolicy=resizecrop&ra=fit&rw=598",
+      "https://images.trvl-media.com/lodging/67000000/66930000/66921300/66921290/c67d27c9.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/67000000/66930000/66921300/66921290/b24ba610.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/67000000/66930000/66921300/66921290/142c72a6.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/67000000/66930000/66921300/66921290/9a073daa.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-47861979/original/f483d84f-5044-4b37-bd94-2978b0589276.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/7e30b756-24e3-4cd8-8b8f-5c65a19f8f52.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/5f47c960-95ec-4bdd-8fb8-1dadd7807b55.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-47861979/original/93f35468-769e-425d-8f9c-23cfaae538e6.jpeg?im_w=720"
+    ],
+    "url": "https://expedia.com/affiliates/rolleville-hotels-frangipani-beachfront-villa-just-steps-away-from-your-very-own-beach.kbmpEu2",
+    "pool": false,
+    "oceanfront": true,
+    "gym": false,
+    "kayak": true,
+    "boat": false,
+    "car": false,
+    "hot_tub": false,
+    "beds": null
+  }
 ]
