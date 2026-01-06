@@ -397,7 +397,9 @@
       "https://media.vrbo.com/lodging/95000000/94810000/94801700/94801608/f7ffbaa7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/95000000/94810000/94801700/94801608/bf1af582.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/95000000/94810000/94801700/94801608/ddcea149.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-      "https://media.vrbo.com/lodging/95000000/94810000/94801700/94801608/107643d5.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      "https://media.vrbo.com/lodging/95000000/94810000/94801700/94801608/107643d5.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/95000000/94810000/94801700/94801608/924625dd.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/95000000/94810000/94801700/94801608/ddcea149.jpg?impolicy=resizecrop&rw=1200&ra=fit"
     ],
     "url": "https://expedia.com/affiliates/george-town-hotels-anchor-villa-5-min-walk-or-rent-a-bike-to-go-to-turtle-beach.H5TKFAG",
     "pool": false,
@@ -415,14 +417,16 @@
     "sleeps": 3,
     "bathrooms": 1,
     "price": 160,
-    "description": "",
+    "description": "Tucked in the Hooper’s Bay area, this private cottage is all about easy island living, with Hooper’s Bay and Hooper’s Bay Beach just a short walk away and Turtle Beach close enough to bike over when you’re feeling adventurous. Inside, you’ve got the essentials dialed in: A/C, internet/Wi-Fi, and a private kitchen, so you can do breakfast at home before heading out for saltwater therapy. It’s a simple, relaxed home base for beach days, snorkeling, and quick runs into George Town, with the airport only a short drive away.",
     "images": [
       "https://media.vrbo.com/lodging/95000000/94780000/94778800/94778701/300eea03.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/95000000/94780000/94778800/94778701/77c67c0e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
       "https://media.vrbo.com/lodging/95000000/94780000/94778800/94778701/95bf8d2c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-      "https://media.vrbo.com/lodging/95000000/94780000/94778800/94778701/638e67cb.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      "https://media.vrbo.com/lodging/95000000/94780000/94778800/94778701/638e67cb.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/95000000/94780000/94778800/94778701/9129f008.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://images.trvl-media.com/lodging/95000000/94780000/94778800/94778701/638e67cb.jpg?impolicy=resizecrop&rw=1200&ra=fit"
     ],
-    "url": "https://vrbo.com/affiliates/exuma_secrets/tropical_villa",
+    "url": "https://expedia.com/affiliates/george-town-hotels-5-mins-walk-or-rent-a-bike-to-ride-to-turtle-beach.WXF4ytb",
     "pool": false,
     "oceanfront": false,
     "gym": false,
@@ -1050,7 +1054,7 @@
   "beds": 4
 },
 {
-  "title": "Luxury Meets Tranquility – Master Suite Villa at Calm Water Villas, Exuma",
+  "title": "Master Suite Villa at Calm Water Villas",
   "ownership": "Foreign",
   "location": "Bahama Sound",
   "bedrooms": 1,
@@ -1070,6 +1074,115 @@
   "kayak": true,
   "boat": false,
   "car": false
-}
-
+},
+  {
+  "title": "Newly Remodeled Unit at the Hideaways",
+  "ownership": "Foreign",
+  "location": "George Town",
+  "bedrooms": 2,
+  "sleeps": 6,
+  "bathrooms": 2,
+  "price": 0,
+  "description": "Fresh, bright, and newly remodeled, this 2-bedroom, 2-bath Hideaways condo is a comfortable home base in George Town for families or small groups. With space to sleep up to six, it’s ideal for beach days, boat days, and exploring town without feeling cramped. Enjoy a full kitchen, A/C, Wi-Fi, and all the convenience of a condo stay, plus Hideaways complex amenities like the pool, hot tub, fitness area, and tennis courts. A great pick if you want an easy, central spot to recharge between Exuma adventures.",
+  "images": [
+    "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/5dddf546.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+    "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/a3b0c2e3.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+    "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/5676055b.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+    "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/d71c2f56.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+    "https://images.trvl-media.com/lodging/105000000/104040000/104033600/104033576/72b7aad6.jpg?impolicy=resizecrop&ra=fit&rw=1200"
+  ],
+  "url": "https://expedia.com/affiliates/george-town-hotels-newly-remodeled-unit-at-the-hideaways.CwHULMa",
+  "pool": true,
+  "oceanfront": false,
+  "gym": true,
+  "kayak": false,
+  "boat": false,
+  "car": false
+},
+   {
+    "title": "Vern's Place",
+    "ownership": "Local",
+    "location": "Rolleville",
+    "bedrooms": 3,
+    "sleeps": 6,
+    "bathrooms": 2,
+    "price": 392,
+    "description": "Spacious locally owned home in Rolleville with room for families or groups. Great base for exploring Tropic of Cancer Beach, nearby sandbars, and the quiet southern side of Great Exuma.",
+    "images": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1069143648978569494/original/2679f1e2-e392-4b6b-b55e-70d4043d5630.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-1069143648978569494/original/1f686a3e-7eb6-4f1c-b86b-d3a9d87b3f92.jpeg?im_w=720"
+    ],
+    "url": "https://www.airbnb.com/rooms/1069143648978569494",
+    "pool": false,
+    "oceanfront": false,
+    "gym": false,
+    "kayak": false,
+    "boat": false,
+    "car": false
+  },
+  {
+    "title": "The Bayinn 6",
+    "ownership": "Local",
+    "location": "Rolleville",
+    "bedrooms": 1,
+    "sleeps": 2,
+    "bathrooms": 1.5,
+    "price": 121,
+    "description": "Beachfront stay in Rolleville with a laid-back island vibe. Kayaks available and optional on-site car rental add convenience for exploring Great Exuma at your own pace.",
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-8266447/original/eeac7e31-1ad8-4f8d-87ab-3cc4229e9682.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-8266447/original/b588e4a0-ac14-4ec0-8c9b-f7e0d4c3c5f0.jpeg?im_w=720"
+    ],
+    "url": "https://www.airbnb.com/rooms/8266447",
+    "pool": false,
+    "oceanfront": true,
+    "gym": false,
+    "kayak": true,
+    "boat": false,
+    "car": true
+  },
+  {
+    "title": "The Flat - Rolleville Exuma Bahamas",
+    "ownership": "Local",
+    "location": "Rolleville",
+    "bedrooms": 2,
+    "sleeps": 4,
+    "bathrooms": 1,
+    "price": 294,
+    "description": "Comfortable locally owned 2-bedroom home base in Rolleville, ideal for couples or small families. A solid option if you want quieter beaches, easy exploring, and a relaxed southern Exuma stay.",
+    "images": [
+      "https://media.vrbo.com/lodging/77000000/76250000/76243700/76243677/a68d9a8b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://media.vrbo.com/lodging/77000000/76250000/76243700/76243677/2df9cc7c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://media.vrbo.com/lodging/77000000/76250000/76243700/76243677/80e64c09.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://media.vrbo.com/lodging/77000000/76250000/76243700/76243677/09f1344c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+      "https://media.vrbo.com/lodging/77000000/76250000/76243700/76243677/870677dc.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+    ],
+    "url": "https://www.vrbo.com/en-ca/cottage-rental/p2694150vb",
+    "pool": false,
+    "oceanfront": false,
+    "gym": false,
+    "kayak": false,
+    "boat": false,
+    "car": false
+  },
+  {
+    "title": "Lil Cay Villa (Newly Renovated Kitchen)",
+    "ownership": "Local",
+    "location": "Steventon",
+    "bedrooms": 1,
+    "sleeps": 4,
+    "bathrooms": 1,
+    "price": 216,
+    "description": "Locally owned villa in Steventon near George Town with a fresh, updated feel. Great for a laid-back trip where you want beaches close by and quick access to town for restaurants and supplies.",
+    "images": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-42847937/original/0b58d911-e167-49a0-ba2d-ca2b94776927.jpeg?im_w=720"
+    ],
+    "url": "https://www.airbnb.com/rooms/42847937",
+    "pool": false,
+    "oceanfront": false,
+    "gym": false,
+    "kayak": false,
+    "boat": false,
+    "car": false
+  }
 ]
