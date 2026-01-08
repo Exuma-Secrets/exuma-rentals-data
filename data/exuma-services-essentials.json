@@ -1,21 +1,128 @@
 [
   {
-    "id": "royal-bahamas-defence-force",
-    "name": "Royal Bahamas Defence Force",
-    "category": "Essentials & Emergency",
-    "subcategory": "Other",
-    "description": "WhatsApp contact for marine emergencies.",
+    "id": "aliv-george-town",
+    "name": "ALIV George Town",
+    "category": "Connectivity & Utilities",
+    "subcategory": "Data/Wi-Fi",
+    "description": "",
     "location": "",
-    "phone": "242-826-3117",
-    "whatsapp": "242-826-3117",
+    "phone": "242-824-0942",
+    "whatsapp": "",
     "email": "",
     "website": "",
     "hours": "",
-    "notes": "Marine Emergency WhatsApp",
+    "notes": "",
+    "tags": [
+      "connectivity-utilities",
+      "data-wi-fi"
+    ]
+  },
+  {
+    "id": "btc",
+    "name": "BTC",
+    "category": "Connectivity & Utilities",
+    "subcategory": "Data/Wi-Fi",
+    "description": "",
+    "location": "",
+    "phone": "242-336-2011",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "connectivity-utilities",
+      "data-wi-fi"
+    ]
+  },
+  {
+    "id": "exuma-bldg-supply",
+    "name": "Exuma Bldg Supply",
+    "category": "Connectivity & Utilities",
+    "subcategory": "Propane",
+    "description": "",
+    "location": "",
+    "phone": "242-336-2402",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "connectivity-utilities",
+      "propane"
+    ]
+  },
+  {
+    "id": "forbes-enterprises",
+    "name": "Forbes Enterprises",
+    "category": "Connectivity & Utilities",
+    "subcategory": "Propane",
+    "description": "",
+    "location": "",
+    "phone": "242-357-0245",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "connectivity-utilities",
+      "propane"
+    ]
+  },
+  {
+    "id": "jamal",
+    "name": "Jamal",
+    "category": "Connectivity & Utilities",
+    "subcategory": "Propane",
+    "description": "",
+    "location": "",
+    "phone": "242-395-2911",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "connectivity-utilities",
+      "propane"
+    ]
+  },
+  {
+    "id": "sun-petroleum-propane",
+    "name": "Sun Petroleum Propane",
+    "category": "Connectivity & Utilities",
+    "subcategory": "Propane",
+    "description": "",
+    "location": "",
+    "phone": "242-357-0615",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "connectivity-utilities",
+      "propane"
+    ]
+  },
+  {
+    "id": "jamal-2",
+    "name": "Jamal",
+    "category": "Essentials & Emergency",
+    "subcategory": "Other",
+    "description": "(Trash, Propane, Laundry etc.)",
+    "location": "",
+    "phone": "242-395-2911",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "Trash, Propane, Laundry etc.",
     "tags": [
       "essentials-emergency",
-      "other",
-      "whatsapp"
+      "other"
     ]
   },
   {
@@ -55,6 +162,1036 @@
     ]
   },
   {
+    "id": "royal-bahamas-defence-force",
+    "name": "Royal Bahamas Defence Force",
+    "category": "Essentials & Emergency",
+    "subcategory": "Other",
+    "description": "WhatsApp contact for marine emergencies.",
+    "location": "",
+    "phone": "242-826-3117",
+    "whatsapp": "242-826-3117",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "Marine Emergency WhatsApp",
+    "tags": [
+      "essentials-emergency",
+      "other",
+      "whatsapp"
+    ]
+  },
+  {
+    "id": "exuma-market-ltd",
+    "name": "Exuma Markets",
+    "category": "Food & Grocery",
+    "subcategory": "Grocery Store",
+    "description": "Full-service grocery store with fresh produce, dairy, meats, and general groceries; popular with locals and visitors.",
+    "location": "George Town, Great Exuma",
+    "phone": "242-336-2033",
+    "whatsapp": "",
+    "email": "",
+    "website": "https://www.amlfoods.com/exuma-markets/",
+    "hours": "",
+    "notes": "On Queen's Highway. Offers provisioning services; has a dinghy dock and reverse-osmosis drinking water.",
+    "tags": [
+      "grocery",
+      "provisioning",
+      "boaters",
+      "water",
+      "george town"
+    ]
+  },
+  {
+    "id": "prime-island-meats",
+    "name": "Prime Island Meats and Deli",
+    "category": "Food & Grocery",
+    "subcategory": "Butcher & Deli",
+    "description": "Family-owned butcher and deli known for quality meats, deli items, and grocery staples.",
+    "location": "Hoopers Bay, Great Exuma",
+    "phone": "242-336-3627",
+    "whatsapp": "",
+    "email": "primeislandmeats@gmail.com",
+    "website": "https://www.facebook.com/PrimeIslandMeats/",
+    "hours": "",
+    "notes": "Located on Queen's Highway in Hoopers Bay.",
+    "tags": [
+      "grocery",
+      "butcher",
+      "deli",
+      "meats",
+      "hoopers bay"
+    ]
+  },
+  {
+    "id": "shop-rite-mart",
+    "name": "Shop Rite Mart",
+    "category": "Food & Grocery",
+    "subcategory": "Grocery Store",
+    "description": "Convenient downtown grocery store with everyday essentials, produce, and household items.",
+    "location": "Downtown George Town, Great Exuma",
+    "phone": "242-336-2670",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "grocery",
+      "downtown",
+      "george town"
+    ]
+  },
+  {
+    "id": "smittys-convenience-store",
+    "name": "Smitty's Convenience Store (with Pharmacy)",
+    "category": "Food & Grocery",
+    "subcategory": "Convenience Store",
+    "description": "Convenience store on Queen\u2019s Highway with essential groceries and an on-site pharmacy.",
+    "location": "Hoopers Bay, Great Exuma",
+    "phone": "242-336-2144",
+    "whatsapp": "",
+    "email": "smittyspharmacy@gmail.com",
+    "website": "https://smittysbahamas.com/",
+    "hours": "",
+    "notes": "Also known for pharmacy services.",
+    "tags": [
+      "convenience",
+      "grocery",
+      "pharmacy",
+      "hoopers bay"
+    ]
+  },
+  {
+    "id": "tipsy-bliss",
+    "name": "Tipsy Bliss",
+    "category": "Food & Grocery",
+    "subcategory": "Drink Service",
+    "description": "Drink service with cocktails, daiquiris, mojitos, margaritas and more, served by the gallon; includes a kids menu and event catering options.",
+    "location": "Exuma",
+    "phone": "+1 (242) 801-3155, +1 (242) 524-6863",
+    "whatsapp": "",
+    "email": "tipsyblissexuma@gmail.com",
+    "website": "",
+    "hours": "",
+    "notes": "Call/text for ingredients and custom orders.",
+    "tags": [
+      "drink service",
+      "cocktails",
+      "by the gallon",
+      "kids menu",
+      "event catering"
+    ]
+  },
+  {
+    "id": "tropical-margaritas-cocktails-sharell-rigby",
+    "name": "Tropical Margaritas and Cocktails (Sharell Rigby)",
+    "category": "Food & Grocery",
+    "subcategory": "Drink Service",
+    "description": "Tropical cocktail mixes sold by the gallon or in pouches, with delivery available (minimum order for delivery).",
+    "location": "Exuma",
+    "phone": "+1 242-524-0472",
+    "whatsapp": "+1 242-524-0472",
+    "email": "sharigbys@gmail.com",
+    "website": "https://facebook.com/",
+    "hours": "",
+    "notes": "Facebook: Sharell Rigby. Drinks by the gallon or pouches.",
+    "tags": [
+      "cocktails",
+      "margaritas",
+      "rum punch",
+      "delivery",
+      "event"
+    ]
+  },
+  {
+    "id": "a-wedding-breeze",
+    "name": "A Wedding Breeze",
+    "category": "Home & Property Services",
+    "subcategory": "Wedding Planner",
+    "description": "Wedding planning services.",
+    "location": "",
+    "phone": "1-242-504-5100",
+    "whatsapp": "",
+    "email": "info@aweddingbreeze.com",
+    "website": "aweddingbreeze.com",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "wedding",
+      "planner",
+      "services"
+    ]
+  },
+  {
+    "id": "dees-tours-services",
+    "name": "Dee's Tours & Services",
+    "category": "Home & Property Services",
+    "subcategory": "Concierge & Personal Services",
+    "description": "Personalized local services including land tours, bar crawl tours, grocery provisioning, babysitting, property management, and hired driver services.",
+    "location": "George Town",
+    "phone": "+1 242 524-5192",
+    "whatsapp": "+1 242 524-5192",
+    "email": "Deandrarolle64@yahoo.com",
+    "website": "https://www.facebook.com/Deestoursservices",
+    "hours": "",
+    "notes": "Connect on Facebook: https://www.facebook.com/Deestoursservices",
+    "tags": [
+      "concierge",
+      "grocery provisioning",
+      "babysitting",
+      "property management",
+      "driver",
+      "land tours",
+      "bar crawl"
+    ]
+  },
+  {
+    "id": "dena-donuts-denas-catering",
+    "name": "Dena Donuts / Dena's Catering",
+    "category": "Home & Property Services",
+    "subcategory": "Chef Services",
+    "description": "Catering and platters (also known for donuts).",
+    "location": "",
+    "phone": "1-242-814-9698",
+    "whatsapp": "1-242-814-9698",
+    "email": "cyrilladena@gmail.com",
+    "website": "",
+    "hours": "",
+    "notes": "Instagram: @denadonuts_denascatering | Facebook: Dena Donuts",
+    "tags": [
+      "chef",
+      "catering",
+      "food",
+      "services"
+    ]
+  },
+  {
+    "id": "ej-welding",
+    "name": "EJ Welding",
+    "category": "Home & Property Services",
+    "subcategory": "Welding",
+    "description": "",
+    "location": "",
+    "phone": "242-824-0380",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "home-property-services",
+      "welding"
+    ]
+  },
+  {
+    "id": "exuma-concierge-services-property-management",
+    "name": "Exuma Concierge Services & Property Management",
+    "category": "Home & Property Services",
+    "subcategory": "Concierge & Property Management",
+    "description": "Concierge, property management, and event planning services to coordinate stays, tours, transportation, and reservations.",
+    "location": "Exuma",
+    "phone": "+1 (242) 436-1754",
+    "whatsapp": "",
+    "email": "charlenerolle0@gmail.com",
+    "website": "https://exumaconciergeservices.com/",
+    "hours": "",
+    "notes": "Facebook: https://www.facebook.com/exumaconcierge/",
+    "tags": [
+      "concierge",
+      "property management",
+      "event planning",
+      "grocery provisions"
+    ]
+  },
+  {
+    "id": "exuma-photos",
+    "name": "Exuma Photos (Treco & Nicole Rose)",
+    "category": "Home & Property Services",
+    "subcategory": "Photographer",
+    "description": "Photography studio in Forest offering beach portraits, vacation sessions, weddings/events, milestone portraits, and passport photos. Also offers prints, touch-ups, and document services.",
+    "location": "Forest, Exuma (studio)",
+    "phone": "242-524-6532, 242-436-5719",
+    "whatsapp": "242-524-6532",
+    "email": "exumaphotography@gmail.com",
+    "website": "https://www.facebook.com/",
+    "hours": "",
+    "notes": "WhatsApp bookings available. Social: Facebook/Instagram as Exuma Photos.",
+    "tags": [
+      "photographer",
+      "family",
+      "vacation",
+      "wedding",
+      "passport-photos",
+      "prints"
+    ]
+  },
+  {
+    "id": "images-by-alexander",
+    "name": "IMAGES by Alexander",
+    "category": "Home & Property Services",
+    "subcategory": "Photographer",
+    "description": "Photography services.",
+    "location": "",
+    "phone": "1-242-458-1422",
+    "whatsapp": "",
+    "email": "nelson@ibabahamas.com",
+    "website": "www.ibabahamas.com",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "photographer",
+      "photos",
+      "services"
+    ]
+  },
+  {
+    "id": "islandpix",
+    "name": "IslandPIX",
+    "category": "Home & Property Services",
+    "subcategory": "Photographer / Videographer",
+    "description": "Photography and videography in Exuma (and can travel within the Bahamas). Services include clear kayak drone shoots, family/couples sessions, weddings, videography, studio portraits, and event photo booth.",
+    "location": "Exuma, Bahamas",
+    "phone": "",
+    "whatsapp": "",
+    "email": "info@islandpixpro.com",
+    "website": "https://www.islandpixpro.com",
+    "hours": "",
+    "notes": "Established 2024; offers both photo and video services.",
+    "tags": [
+      "photography",
+      "videography",
+      "drone",
+      "wedding",
+      "portraits",
+      "photo-booth"
+    ]
+  },
+  {
+    "id": "natures-best-onike-rondell-knowles",
+    "name": "Nature's Best (Onike & Rondell Knowles)",
+    "category": "Home & Property Services",
+    "subcategory": "Chef Services",
+    "description": "Chef/catering service.",
+    "location": "",
+    "phone": "1-242-524-8675",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "chef",
+      "catering",
+      "services"
+    ]
+  },
+  {
+    "id": "omar",
+    "name": "Omar",
+    "category": "Home & Property Services",
+    "subcategory": "Welding",
+    "description": "",
+    "location": "",
+    "phone": "242-524-5184",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "home-property-services",
+      "welding"
+    ]
+  },
+  {
+    "id": "patrick",
+    "name": "Patrick",
+    "category": "Home & Property Services",
+    "subcategory": "Welding",
+    "description": "",
+    "location": "",
+    "phone": "242-357-0367",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "home-property-services",
+      "welding"
+    ]
+  },
+  {
+    "id": "reno-curling-photography",
+    "name": "Reno Curling Photography",
+    "category": "Home & Property Services",
+    "subcategory": "Photographer",
+    "description": "Destination wedding, engagement, lifestyle, and event photography in Exuma and across the Bahamas.",
+    "location": "Queens Highway, George Town, Exuma, Bahamas",
+    "phone": "1-242-457-0180",
+    "whatsapp": "",
+    "email": "me@renocurling.com",
+    "website": "https://www.renocurling.com",
+    "hours": "",
+    "notes": "Modern photojournalistic style; bookings via website or email.",
+    "tags": [
+      "engagement",
+      "event",
+      "photographer",
+      "photos",
+      "portraits",
+      "services",
+      "wedding"
+    ]
+  },
+  {
+    "id": "rolle-refrigeration",
+    "name": "Rolle Refrigeration",
+    "category": "Home & Property Services",
+    "subcategory": "Refrigeration",
+    "description": "",
+    "location": "",
+    "phone": "242-357-0538",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "home-property-services",
+      "refrigeration"
+    ]
+  },
+  {
+    "id": "simply-devine-catering",
+    "name": "Simply Devine Catering",
+    "category": "Home & Property Services",
+    "subcategory": "Chef Services",
+    "description": "Catering service in Little Exuma.",
+    "location": "Little Exuma",
+    "phone": "1-242-826-4498",
+    "whatsapp": "1-242-826-4498",
+    "email": "chefadderley2@hotmail.com",
+    "website": "",
+    "hours": "",
+    "notes": "Instagram: @_simplydevine242",
+    "tags": [
+      "chef",
+      "catering",
+      "services"
+    ]
+  },
+  {
+    "id": "t-v-platters-fruit-arrangements",
+    "name": "T & V Platters and Fruit Arrangements",
+    "category": "Home & Property Services",
+    "subcategory": "Chef Services",
+    "description": "Platters and fruit arrangements.",
+    "location": "Georgetown",
+    "phone": "1-242-801-8460",
+    "whatsapp": "1-242-801-8460",
+    "email": "fruit.platters.arrangements@gmail.com",
+    "website": "tandvplatters.com",
+    "hours": "",
+    "notes": "Instagram: @tandvplattersandtrays | Facebook: T & V Platters and Fruit Arrangements",
+    "tags": [
+      "chef",
+      "catering",
+      "fruit",
+      "platters",
+      "services"
+    ]
+  },
+  {
+    "id": "vibe-exuma",
+    "name": "VIBE Exuma",
+    "category": "Home & Property Services",
+    "subcategory": "Chef Services",
+    "description": "Private chef/catering service.",
+    "location": "Georgetown",
+    "phone": "1-242-805-8423",
+    "whatsapp": "1-242-805-8423",
+    "email": "info@vibeexuma.com",
+    "website": "www.vibeexuma.com",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "chef",
+      "catering",
+      "private chef",
+      "services"
+    ]
+  },
+  {
+    "id": "vaughan-b-services-vbc-exuma",
+    "name": "Vaughan B Services (VBC Exuma)",
+    "category": "Home & Property Services",
+    "subcategory": "Concierge / Butler Services",
+    "description": "Vacation butler and concierge services plus micro events such as island picnics and weddings; can help with planning, chauffeured transport, and provisioning.",
+    "location": "Exuma",
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "website": "https://vbcexuma.com/",
+    "hours": "",
+    "notes": "Services highlighted: concierge, event planning, and grocery/provisioning.",
+    "tags": [
+      "butler",
+      "concierge",
+      "micro events",
+      "picnics",
+      "weddings",
+      "provisioning"
+    ]
+  },
+  {
+    "id": "baranki-ricardo-whatsapp",
+    "name": "Baranki Ricardo @ WhatsApp #",
+    "category": "Laundry & Cleaning",
+    "subcategory": "Laundry",
+    "description": "",
+    "location": "",
+    "phone": "242-524-8511",
+    "whatsapp": "242-524-8511",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "laundry",
+      "laundry-cleaning",
+      "whatsapp"
+    ]
+  },
+  {
+    "id": "exuma-cleaners-in-moss-town",
+    "name": "Exuma Cleaners In Moss Town",
+    "category": "Laundry & Cleaning",
+    "subcategory": "Laundry",
+    "description": "",
+    "location": "",
+    "phone": "242-345-0038",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "laundry",
+      "laundry-cleaning"
+    ]
+  },
+  {
+    "id": "miss-lee-s-corner-laundromat-monday-to-saturday-7-30-am-5-00-pm-sun-8am-2pm-what",
+    "name": "Miss Lee's Corner Laundromat Monday To Saturday 7:30 Am-5:00 Pm, Sun 8am-2pm WhatsApp #",
+    "category": "Laundry & Cleaning",
+    "subcategory": "Laundry",
+    "description": "",
+    "location": "",
+    "phone": "242-357-0794",
+    "whatsapp": "242-357-0794",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "(If you drop off at Miss Lee\u2019s by 10AM for wash and fold service it will be ready by 4pm)",
+    "tags": [
+      "laundry",
+      "laundry-cleaning",
+      "whatsapp"
+    ]
+  },
+  {
+    "id": "marshall-s-guest-house-julian-reservations",
+    "name": "Marshall's Guest House - Julian Reservations",
+    "category": "Lodging",
+    "subcategory": "Hotels",
+    "description": "",
+    "location": "",
+    "phone": "242-558-9005",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "hotels",
+      "lodging"
+    ]
+  },
+  {
+    "id": "adrian",
+    "name": "Adrian",
+    "category": "Marinas & Boating",
+    "subcategory": "Diesel/ Generator Repair/Electrical",
+    "description": "",
+    "location": "",
+    "phone": "242-804-1414",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "boating",
+      "diesel-generator-repair-electrical",
+      "marinas-boating"
+    ]
+  },
+  {
+    "id": "alric",
+    "name": "Alric",
+    "category": "Marinas & Boating",
+    "subcategory": "Diesel/ Generator Repair/Electrical",
+    "description": "(electrical)",
+    "location": "",
+    "phone": "242-814-0488",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "electrical",
+    "tags": [
+      "boating",
+      "diesel-generator-repair-electrical",
+      "marinas-boating"
+    ]
+  },
+  {
+    "id": "bow-to-stern",
+    "name": "Bow To Stern",
+    "category": "Marinas & Boating",
+    "subcategory": "Outboards",
+    "description": "(Alfonso)",
+    "location": "",
+    "phone": "242-824-0380",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "Alfonso",
+    "tags": [
+      "boating",
+      "marinas-boating",
+      "outboards"
+    ]
+  },
+  {
+    "id": "browns-marina-marine",
+    "name": "Browns Marina / Marine",
+    "category": "Marinas & Boating",
+    "subcategory": "Outboards",
+    "description": "(YAMAHA / SUZUKI DEALER)",
+    "location": "",
+    "phone": "242-336-3330",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "YAMAHA / SUZUKI DEALER",
+    "tags": [
+      "boating",
+      "marinas-boating",
+      "outboards"
+    ]
+  },
+  {
+    "id": "eyc-the-new-dockmaster-levi-is-on-whatsapp",
+    "name": "EYC The New Dockmaster Levi Is On WhatsApp",
+    "category": "Marinas & Boating",
+    "subcategory": "Marina",
+    "description": "",
+    "location": "",
+    "phone": "242-577-2199",
+    "whatsapp": "242-577-2199",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "boating",
+      "marina",
+      "marinas-boating",
+      "whatsapp"
+    ]
+  },
+  {
+    "id": "emerald-bay-marina",
+    "name": "Emerald Bay Marina",
+    "category": "Marinas & Boating",
+    "subcategory": "Marina",
+    "description": "",
+    "location": "",
+    "phone": "242-357-0193",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "boating",
+      "marina",
+      "marinas-boating"
+    ]
+  },
+  {
+    "id": "eric-morley-jr",
+    "name": "Eric Morley Jr.",
+    "category": "Marinas & Boating",
+    "subcategory": "Outboards",
+    "description": "",
+    "location": "",
+    "phone": "242-425-3840",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "boating",
+      "marinas-boating",
+      "outboards"
+    ]
+  },
+  {
+    "id": "exuma-club-on-4-24-24-they-were-charging-a-40-landing-fee-for-diesel-and-water",
+    "name": "Exuma Club On 4/24/24 They Were Charging A $40 Landing Fee For Diesel And Water",
+    "category": "Marinas & Boating",
+    "subcategory": "Marina",
+    "description": "",
+    "location": "",
+    "phone": "242-336-2661",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "boating",
+      "marina",
+      "marinas-boating"
+    ]
+  },
+  {
+    "id": "gesner-sail-repair",
+    "name": "Gesner Sail Repair",
+    "category": "Marinas & Boating",
+    "subcategory": "Sail Repair",
+    "description": "",
+    "location": "",
+    "phone": "242-425-7362",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "boating",
+      "marinas-boating",
+      "sail-repair"
+    ]
+  },
+  {
+    "id": "kavalli-house",
+    "name": "Kavalli House",
+    "category": "Marinas & Boating",
+    "subcategory": "Moorings",
+    "description": "(Norm )",
+    "location": "",
+    "phone": "242-524-0709, 242-357-0118",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "Norm",
+    "tags": [
+      "boating",
+      "marinas-boating",
+      "moorings"
+    ]
+  },
+  {
+    "id": "leroy",
+    "name": "Leroy",
+    "category": "Marinas & Boating",
+    "subcategory": "Diesel/ Generator Repair/Electrical",
+    "description": "",
+    "location": "",
+    "phone": "242-556-2387",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "boating",
+      "diesel-generator-repair-electrical",
+      "marinas-boating"
+    ]
+  },
+  {
+    "id": "master-harbour-boatyard",
+    "name": "Master Harbour Boatyard",
+    "category": "Marinas & Boating",
+    "subcategory": "Boat Yard / Haul-Out",
+    "description": "",
+    "location": "",
+    "phone": "242-357-0663",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "boat-yard-haul-out",
+      "boating",
+      "marinas-boating"
+    ]
+  },
+  {
+    "id": "minns",
+    "name": "Minns",
+    "category": "Marinas & Boating",
+    "subcategory": "Outboards",
+    "description": "",
+    "location": "",
+    "phone": "242-336-3483",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "boating",
+      "marinas-boating",
+      "outboards"
+    ]
+  },
+  {
+    "id": "minns-watersports",
+    "name": "Minns Watersports",
+    "category": "Marinas & Boating",
+    "subcategory": "Boat Rental",
+    "description": "",
+    "location": "",
+    "phone": "242-336-3483",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "boat-rental",
+      "boating",
+      "marinas-boating"
+    ]
+  },
+  {
+    "id": "roston-mcgregor-valiant-marine-salvage-whatsapp",
+    "name": "Roston McGregor Valiant Marine Salvage WhatsApp",
+    "category": "Marinas & Boating",
+    "subcategory": "Salvage/Towing",
+    "description": "",
+    "location": "",
+    "phone": "242-422-7146",
+    "whatsapp": "242-422-7146",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "boating",
+      "marinas-boating",
+      "salvage-towing",
+      "whatsapp"
+    ]
+  },
+  {
+    "id": "salty-living",
+    "name": "Salty Living",
+    "category": "Marinas & Boating",
+    "subcategory": "Boat Cleaning",
+    "description": "",
+    "location": "",
+    "phone": "242-556-2387, 242-524-2555",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "boat-cleaning",
+      "boating",
+      "marinas-boating"
+    ]
+  },
+  {
+    "id": "st-francis-resort",
+    "name": "St Francis Resort",
+    "category": "Marinas & Boating",
+    "subcategory": "Moorings",
+    "description": "",
+    "location": "",
+    "phone": "242-557-9629",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "boating",
+      "marinas-boating",
+      "moorings"
+    ]
+  },
+  {
+    "id": "trini",
+    "name": "Trini",
+    "category": "Marinas & Boating",
+    "subcategory": "Diesel/ Generator Repair/Electrical",
+    "description": "(generator)",
+    "location": "",
+    "phone": "242-464-1817",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "generator",
+    "tags": [
+      "boating",
+      "diesel-generator-repair-electrical",
+      "marinas-boating"
+    ]
+  },
+  {
+    "id": "wendell-s-moorings",
+    "name": "Wendell's Moorings",
+    "category": "Marinas & Boating",
+    "subcategory": "Moorings",
+    "description": "(\u201cLITTLE TOOT\u201d)",
+    "location": "",
+    "phone": "242-357-0703",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "\u201cLITTLE TOOT\u201d",
+    "tags": [
+      "boating",
+      "marinas-boating",
+      "moorings"
+    ]
+  },
+  {
+    "id": "dr-dean-visits-once-a-month-from-ft-lauderdale-local-contact-michelle-smith",
+    "name": "Dr. Dean Visits Once A Month From Ft Lauderdale Local Contact Michelle Smith",
+    "category": "Medical & Wellness",
+    "subcategory": "Veterinarian",
+    "description": "",
+    "location": "",
+    "phone": "242-524-5795",
+    "whatsapp": "",
+    "email": "exumaanimalhospital@gmail.com",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "medical-wellness",
+      "veterinarian"
+    ]
+  },
+  {
+    "id": "dr-issah-hansen-exuma-animal-hospital",
+    "name": "Dr. Issah Hansen @ Exuma Animal Hospital",
+    "category": "Medical & Wellness",
+    "subcategory": "Veterinarian",
+    "description": "",
+    "location": "",
+    "phone": "242-336-0034, 242-814-1838",
+    "whatsapp": "",
+    "email": "exumaanimalhospital242@gmail.com",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "hospital",
+      "medical-wellness",
+      "veterinarian"
+    ]
+  },
+  {
+    "id": "easy-dental-care",
+    "name": "Easy Dental Care",
+    "category": "Medical & Wellness",
+    "subcategory": "Dentist -",
+    "description": "",
+    "location": "",
+    "phone": "242-336-7844",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "dentist",
+      "medical-wellness"
+    ]
+  },
+  {
+    "id": "exuma-healing-hands-massage",
+    "name": "Exuma Healing Hands Massage",
+    "category": "Medical & Wellness",
+    "subcategory": "Massage & Yoga",
+    "description": "In-home relaxing and therapeutic massages and spa services.",
+    "location": "Exuma",
+    "phone": "1-242-524-4274",
+    "whatsapp": "1-242-524-4274",
+    "email": "healinghandsmassage17@hotmail.com",
+    "website": "www.exumahealinghandsmassage.com",
+    "hours": "",
+    "notes": "Instagram: @exumahealinghandsmassage",
+    "tags": [
+      "massage",
+      "spa",
+      "wellness"
+    ]
+  },
+  {
+    "id": "exuma-humane-society-local-contact",
+    "name": "Exuma Humane Society Local Contact",
+    "category": "Medical & Wellness",
+    "subcategory": "Veterinarian",
+    "description": "",
+    "location": "",
+    "phone": "",
+    "whatsapp": "",
+    "email": "lissasting-ray@yahoo.com",
+    "website": "",
+    "hours": "",
+    "notes": "Not to be broadcast to cruisers. Lissa",
+    "tags": [
+      "medical-wellness",
+      "veterinarian"
+    ]
+  },
+  {
+    "id": "exuma-massage",
+    "name": "Exuma Massage",
+    "category": "Medical & Wellness",
+    "subcategory": "Massage & Yoga",
+    "description": "Massage services.",
+    "location": "Exuma",
+    "phone": "1-242-357-0684",
+    "whatsapp": "",
+    "email": "lyn@exumamassage.com",
+    "website": "exumamassage.com",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "massage",
+      "wellness"
+    ]
+  },
+  {
     "id": "georgetown-hospital",
     "name": "Georgetown Hospital",
     "category": "Medical & Wellness",
@@ -66,7 +1203,7 @@
     "email": "",
     "website": "",
     "hours": "",
-    "notes": "Staffed with MD and a highly qualified nurse similar to a nurse practitioner â€“ can prescribe . Located opposite Fish Fry on opposite side of the street 24/7",
+    "notes": "Staffed with MD and a highly qualified nurse similar to a nurse practitioner \u2013 can prescribe . Located opposite Fish Fry on opposite side of the street 24/7",
     "tags": [
       "hospital",
       "medical",
@@ -131,24 +1268,6 @@
     ]
   },
   {
-    "id": "easy-dental-care",
-    "name": "Easy Dental Care",
-    "category": "Medical & Wellness",
-    "subcategory": "Dentist -",
-    "description": "",
-    "location": "",
-    "phone": "242-336-7844",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "dentist",
-      "medical-wellness"
-    ]
-  },
-  {
     "id": "humane-society-or",
     "name": "Humane Society Or",
     "category": "Medical & Wellness",
@@ -167,21 +1286,31 @@
     ]
   },
   {
-    "id": "exuma-humane-society-local-contact",
-    "name": "Exuma Humane Society Local Contact",
+    "id": "island-wellness-exuma-salon-spa",
+    "name": "Island Wellness Exuma Salon & Spa",
     "category": "Medical & Wellness",
-    "subcategory": "Veterinarian",
-    "description": "",
-    "location": "",
-    "phone": "",
-    "whatsapp": "",
-    "email": "lissasting-ray@yahoo.com",
-    "website": "",
+    "subcategory": "Massage & Yoga",
+    "description": "Holistic wellness center offering spa & salon services, fitness programs, meditation/healing, and creative art services.",
+    "location": "Exuma",
+    "phone": "1-242-524-8309",
+    "whatsapp": "1-242-524-8309",
+    "email": "duniavega12@hotmail.com",
+    "website": "www.islandwellnessexuma.com",
     "hours": "",
-    "notes": "Not to be broadcast to cruisers. Lissa",
+    "notes": "Instagram: @islandwellnessmassageyoga",
     "tags": [
-      "medical-wellness",
-      "veterinarian"
+      "art therapy",
+      "boot camp",
+      "facials",
+      "manicure",
+      "massage",
+      "meditation",
+      "pedicure",
+      "pilates",
+      "sound bath",
+      "spa",
+      "wellness",
+      "yoga"
     ]
   },
   {
@@ -203,279 +1332,6 @@
     ]
   },
   {
-    "id": "dr-dean-visits-once-a-month-from-ft-lauderdale-local-contact-michelle-smith",
-    "name": "Dr. Dean Visits Once A Month From Ft Lauderdale Local Contact Michelle Smith",
-    "category": "Medical & Wellness",
-    "subcategory": "Veterinarian",
-    "description": "",
-    "location": "",
-    "phone": "242-524-5795",
-    "whatsapp": "",
-    "email": "exumaanimalhospital@gmail.com",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "medical-wellness",
-      "veterinarian"
-    ]
-  },
-  {
-    "id": "dr-issah-hansen-exuma-animal-hospital",
-    "name": "Dr. Issah Hansen @ Exuma Animal Hospital",
-    "category": "Medical & Wellness",
-    "subcategory": "Veterinarian",
-    "description": "",
-    "location": "",
-    "phone": "242-336-0034, 242-814-1838",
-    "whatsapp": "",
-    "email": "exumaanimalhospital242@gmail.com",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "hospital",
-      "medical-wellness",
-      "veterinarian"
-    ]
-  },
-  {
-    "id": "smittys-pharmacy",
-    "name": "Smittys Pharmacy",
-    "category": "Medical & Wellness",
-    "subcategory": "Veterinarian",
-    "description": "PHARMACY - Smittys Pharmacy",
-    "location": "",
-    "phone": "242-336-2144",
-    "whatsapp": "",
-    "email": "smittyspharmacy@gmail.com",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "medical-wellness",
-      "veterinarian"
-    ]
-  },
-  {
-    "id": "exuma-market-ltd",
-    "name": "Exuma Market Ltd",
-    "category": "Food & Grocery",
-    "subcategory": "Food & Grocery",
-    "description": "",
-    "location": "",
-    "phone": "242-336-2033",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "food-grocery",
-      "grocery"
-    ]
-  },
-  {
-    "id": "prime-island-meats",
-    "name": "Prime Island Meats",
-    "category": "Food & Grocery",
-    "subcategory": "Food & Grocery",
-    "description": "",
-    "location": "",
-    "phone": "242-336-3627",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "food-grocery",
-      "grocery"
-    ]
-  },
-  {
-    "id": "shop-rite-mart",
-    "name": "Shop Rite Mart",
-    "category": "Food & Grocery",
-    "subcategory": "Food & Grocery",
-    "description": "",
-    "location": "",
-    "phone": "242-336-2670",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "food-grocery",
-      "grocery"
-    ]
-  },
-  {
-    "id": "miss-lee-s-corner-laundromat-monday-to-saturday-7-30-am-5-00-pm-sun-8am-2pm-what",
-    "name": "Miss Lee's Corner Laundromat Monday To Saturday 7:30 Am-5:00 Pm, Sun 8am-2pm WhatsApp #",
-    "category": "Laundry & Cleaning",
-    "subcategory": "Laundry",
-    "description": "",
-    "location": "",
-    "phone": "242-357-0794",
-    "whatsapp": "242-357-0794",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "(If you drop off at Miss Leeâ€™s by 10AM for wash and fold service it will be ready by 4pm)",
-    "tags": [
-      "laundry",
-      "laundry-cleaning",
-      "whatsapp"
-    ]
-  },
-  {
-    "id": "baranki-ricardo-whatsapp",
-    "name": "Baranki Ricardo @ WhatsApp #",
-    "category": "Laundry & Cleaning",
-    "subcategory": "Laundry",
-    "description": "",
-    "location": "",
-    "phone": "242-524-8511",
-    "whatsapp": "242-524-8511",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "laundry",
-      "laundry-cleaning",
-      "whatsapp"
-    ]
-  },
-  {
-    "id": "exuma-cleaners-in-moss-town",
-    "name": "Exuma Cleaners In Moss Town",
-    "category": "Laundry & Cleaning",
-    "subcategory": "Laundry",
-    "description": "",
-    "location": "",
-    "phone": "242-345-0038",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "laundry",
-      "laundry-cleaning"
-    ]
-  },
-  {
-    "id": "aliv-george-town",
-    "name": "ALIV George Town",
-    "category": "Connectivity & Utilities",
-    "subcategory": "Data/Wi-Fi",
-    "description": "",
-    "location": "",
-    "phone": "242-824-0942",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "connectivity-utilities",
-      "data-wi-fi"
-    ]
-  },
-  {
-    "id": "btc",
-    "name": "BTC",
-    "category": "Connectivity & Utilities",
-    "subcategory": "Data/Wi-Fi",
-    "description": "",
-    "location": "",
-    "phone": "242-336-2011",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "connectivity-utilities",
-      "data-wi-fi"
-    ]
-  },
-  {
-    "id": "forbes-enterprises",
-    "name": "Forbes Enterprises",
-    "category": "Connectivity & Utilities",
-    "subcategory": "Propane",
-    "description": "",
-    "location": "",
-    "phone": "242-357-0245",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "connectivity-utilities",
-      "propane"
-    ]
-  },
-  {
-    "id": "sun-petroleum-propane",
-    "name": "Sun Petroleum Propane",
-    "category": "Connectivity & Utilities",
-    "subcategory": "Propane",
-    "description": "",
-    "location": "",
-    "phone": "242-357-0615",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "connectivity-utilities",
-      "propane"
-    ]
-  },
-  {
-    "id": "jamal",
-    "name": "Jamal",
-    "category": "Connectivity & Utilities",
-    "subcategory": "Propane",
-    "description": "",
-    "location": "",
-    "phone": "242-395-2911",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "connectivity-utilities",
-      "propane"
-    ]
-  },
-  {
-    "id": "exuma-bldg-supply",
-    "name": "Exuma Bldg Supply",
-    "category": "Connectivity & Utilities",
-    "subcategory": "Propane",
-    "description": "",
-    "location": "",
-    "phone": "242-336-2402",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "connectivity-utilities",
-      "propane"
-    ]
-  },
-  {
     "id": "cp-morley-mr-morley-has-passed-away-and-his-grand-daughter-is-no-running-the-bus",
     "name": "CP Morley () Mr. Morley Has Passed Away And His Grand Daughter Is No Running The Business.",
     "category": "Shipping & Freight",
@@ -488,6 +1344,24 @@
     "website": "",
     "hours": "",
     "notes": "",
+    "tags": [
+      "shipping",
+      "shipping-freight"
+    ]
+  },
+  {
+    "id": "dhl",
+    "name": "DHL",
+    "category": "Shipping & Freight",
+    "subcategory": "Shipping",
+    "description": "(Michelle at Ambree\u2019s Office Supplies)",
+    "location": "",
+    "phone": "242-422-7587",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "Michelle at Ambree\u2019s Office Supplies",
     "tags": [
       "shipping",
       "shipping-freight"
@@ -512,6 +1386,24 @@
     ]
   },
   {
+    "id": "fedex",
+    "name": "FEDEX",
+    "category": "Shipping & Freight",
+    "subcategory": "Shipping",
+    "description": "(Karen Smith)",
+    "location": "",
+    "phone": "242-464-1828",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "Karen Smith",
+    "tags": [
+      "shipping",
+      "shipping-freight"
+    ]
+  },
+  {
     "id": "forbes-enterprises-2",
     "name": "Forbes Enterprises",
     "category": "Shipping & Freight",
@@ -519,6 +1411,24 @@
     "description": "",
     "location": "",
     "phone": "242-336-2857",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "shipping",
+      "shipping-freight"
+    ]
+  },
+  {
+    "id": "mr-shipit-web-mrshipit-com-email-hello-mrshipit",
+    "name": "Mr. Shipit (web:mrshipit.com; Email:hello@mrshipit",
+    "category": "Shipping & Freight",
+    "subcategory": "Shipping",
+    "description": "",
+    "location": "",
+    "phone": "242-603-5555",
     "whatsapp": "",
     "email": "",
     "website": "",
@@ -545,778 +1455,6 @@
     "tags": [
       "shipping",
       "shipping-freight"
-    ]
-  },
-  {
-    "id": "mr-shipit-web-mrshipit-com-email-hello-mrshipit",
-    "name": "Mr. Shipit (web:mrshipit.com; Email:hello@mrshipit",
-    "category": "Shipping & Freight",
-    "subcategory": "Shipping",
-    "description": "",
-    "location": "",
-    "phone": "242-603-5555",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "shipping",
-      "shipping-freight"
-    ]
-  },
-  {
-    "id": "fedex",
-    "name": "FEDEX",
-    "category": "Shipping & Freight",
-    "subcategory": "Shipping",
-    "description": "(Karen Smith)",
-    "location": "",
-    "phone": "242-464-1828",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "Karen Smith",
-    "tags": [
-      "shipping",
-      "shipping-freight"
-    ]
-  },
-  {
-    "id": "dhl",
-    "name": "DHL",
-    "category": "Shipping & Freight",
-    "subcategory": "Shipping",
-    "description": "(Michelle at Ambreeâ€™s Office Supplies)",
-    "location": "",
-    "phone": "242-422-7587",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "Michelle at Ambreeâ€™s Office Supplies",
-    "tags": [
-      "shipping",
-      "shipping-freight"
-    ]
-  },
-  {
-    "id": "a1a-car-rental",
-    "name": "A1a Car Rental",
-    "category": "Transportation",
-    "subcategory": "Car Rental",
-    "description": "(kitty corner to Leeâ€™s Laundry)",
-    "location": "",
-    "phone": "242-464-1883",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "kitty corner to Leeâ€™s Laundry",
-    "tags": [
-      "car-rental",
-      "transportation"
-    ]
-  },
-  {
-    "id": "airport-car-rental",
-    "name": "Airport Car Rental",
-    "category": "Transportation",
-    "subcategory": "Car Rental",
-    "description": "",
-    "location": "",
-    "phone": "242-345-0090",
-    "whatsapp": "",
-    "email": "info@exumacarrental.com",
-    "website": "exumacarrental.com",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "car-rental",
-      "transportation"
-    ]
-  },
-  {
-    "id": "burtels-car-rental",
-    "name": "Burtels Car Rental",
-    "category": "Transportation",
-    "subcategory": "Car Rental",
-    "description": "",
-    "location": "",
-    "phone": "242-336-3290",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "car-rental",
-      "transportation"
-    ]
-  },
-  {
-    "id": "exuma-transport",
-    "name": "Exuma Transport",
-    "category": "Transportation",
-    "subcategory": "Car Rental",
-    "description": "",
-    "location": "",
-    "phone": "242-336-2101",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "car-rental",
-      "transportation"
-    ]
-  },
-  {
-    "id": "moejayz",
-    "name": "Moejayz",
-    "category": "Transportation",
-    "subcategory": "Car Rental",
-    "description": "(across from Corner Laundry)",
-    "location": "",
-    "phone": "242-524-8228",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "across from Corner Laundry",
-    "tags": [
-      "car-rental",
-      "transportation"
-    ]
-  },
-  {
-    "id": "thompson-car-rental",
-    "name": "Thompson Car Rental",
-    "category": "Transportation",
-    "subcategory": "Car Rental",
-    "description": "",
-    "location": "",
-    "phone": "242-336-2442",
-    "whatsapp": "",
-    "email": "thompsonsrental@hotmail.com",
-    "website": "exumacars.com",
-    "hours": "",
-    "notes": "- Caravan $130 /day 10% tax, insurance optional, $1000 security deposit cast/debit",
-    "tags": [
-      "car-rental",
-      "transportation"
-    ]
-  },
-  {
-    "id": "pablo",
-    "name": "Pablo",
-    "category": "Transportation",
-    "subcategory": "Car Rental",
-    "description": "",
-    "location": "",
-    "phone": "242-808-8471",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "car-rental",
-      "transportation"
-    ]
-  },
-  {
-    "id": "leslie-taxi",
-    "name": "Leslie Taxi",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-524-0012",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "Taxi #12",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "taxi-23",
-    "name": "Taxi 23",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-524-8371, 242-524-0832",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "pink-floyds",
-    "name": "Pink Floyds",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-829-8783",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "douglas-gibson-85",
-    "name": "Douglas Gibson #85",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-524-5052",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "devon",
-    "name": "Devon",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-470-2309",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "deandre-rolle-taxi-5",
-    "name": "Deandre Rolle Taxi #5",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-524-5192",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "patrick-taxi-13",
-    "name": "Patrick Taxi #13",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-464-1411",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "queenie",
-    "name": "Queenie",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-524-7240",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "bernese-marshall",
-    "name": "Bernese Marshall",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-357-0876",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "matia-taxi-87",
-    "name": "Matia â€“ Taxi 87",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-464-1037",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "x",
-    "name": "X",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-524-5220",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "Luther Rolle â€“ Taxi 29 242",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "dimitri-smith-taxi-28",
-    "name": "Dimitri Smith â€“ Taxi 28",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-357-0405",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "gully-rolle-taxi-71",
-    "name": "Gully Rolle â€“ Taxi 71",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-464-1154",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "rudy-s-taxi-9",
-    "name": "Rudy's â€“ Taxi #9",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-524-1989",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "jj-s-taxi-14-8442",
-    "name": "JJ's â€“ Taxi 14 /8442",
-    "category": "Transportation",
-    "subcategory": "Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-524-7443",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation"
-    ]
-  },
-  {
-    "id": "island-wide-transit",
-    "name": "Island Wide Transit",
-    "category": "Transportation",
-    "subcategory": "Bus Service",
-    "description": "(Barry)",
-    "location": "",
-    "phone": "242-816-1384",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "Barry",
-    "tags": [
-      "bus-service",
-      "transportation"
-    ]
-  },
-  {
-    "id": "a-1-water-taxi",
-    "name": "A-1 Water Taxi",
-    "category": "Transportation",
-    "subcategory": "Water Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-357-0544",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation",
-      "water-taxi"
-    ]
-  },
-  {
-    "id": "elvis-water-taxi",
-    "name": "Elvis Water Taxi",
-    "category": "Transportation",
-    "subcategory": "Water Taxi",
-    "description": "",
-    "location": "",
-    "phone": "242-464-1558",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "taxi",
-      "transportation",
-      "water-taxi"
-    ]
-  },
-  {
-    "id": "marshall-s-guest-house-julian-reservations",
-    "name": "Marshall's Guest House - Julian Reservations",
-    "category": "Lodging",
-    "subcategory": "Hotels",
-    "description": "",
-    "location": "",
-    "phone": "242-558-9005",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "hotels",
-      "lodging"
-    ]
-  },
-  {
-    "id": "minns-watersports",
-    "name": "Minns Watersports",
-    "category": "Marinas & Boating",
-    "subcategory": "Boat Rental",
-    "description": "",
-    "location": "",
-    "phone": "242-336-3483",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "boat-rental",
-      "boating",
-      "marinas-boating"
-    ]
-  },
-  {
-    "id": "emerald-bay-marina",
-    "name": "Emerald Bay Marina",
-    "category": "Marinas & Boating",
-    "subcategory": "Marina",
-    "description": "",
-    "location": "",
-    "phone": "242-357-0193",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "boating",
-      "marina",
-      "marinas-boating"
-    ]
-  },
-  {
-    "id": "exuma-club-on-4-24-24-they-were-charging-a-40-landing-fee-for-diesel-and-water",
-    "name": "Exuma Club On 4/24/24 They Were Charging A $40 Landing Fee For Diesel And Water",
-    "category": "Marinas & Boating",
-    "subcategory": "Marina",
-    "description": "",
-    "location": "",
-    "phone": "242-336-2661",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "boating",
-      "marina",
-      "marinas-boating"
-    ]
-  },
-  {
-    "id": "eyc-the-new-dockmaster-levi-is-on-whatsapp",
-    "name": "EYC The New Dockmaster Levi Is On WhatsApp",
-    "category": "Marinas & Boating",
-    "subcategory": "Marina",
-    "description": "",
-    "location": "",
-    "phone": "242-577-2199",
-    "whatsapp": "242-577-2199",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "boating",
-      "marina",
-      "marinas-boating",
-      "whatsapp"
-    ]
-  },
-  {
-    "id": "st-francis-resort",
-    "name": "St Francis Resort",
-    "category": "Marinas & Boating",
-    "subcategory": "Moorings",
-    "description": "",
-    "location": "",
-    "phone": "242-557-9629",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "boating",
-      "marinas-boating",
-      "moorings"
-    ]
-  },
-  {
-    "id": "kavalli-house",
-    "name": "Kavalli House",
-    "category": "Marinas & Boating",
-    "subcategory": "Moorings",
-    "description": "(Norm )",
-    "location": "",
-    "phone": "242-524-0709, 242-357-0118",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "Norm",
-    "tags": [
-      "boating",
-      "marinas-boating",
-      "moorings"
-    ]
-  },
-  {
-    "id": "wendell-s-moorings",
-    "name": "Wendell's Moorings",
-    "category": "Marinas & Boating",
-    "subcategory": "Moorings",
-    "description": "(â€œLITTLE TOOTâ€)",
-    "location": "",
-    "phone": "242-357-0703",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "â€œLITTLE TOOTâ€",
-    "tags": [
-      "boating",
-      "marinas-boating",
-      "moorings"
-    ]
-  },
-  {
-    "id": "master-harbour-boatyard",
-    "name": "Master Harbour Boatyard",
-    "category": "Marinas & Boating",
-    "subcategory": "Boat Yard / Haul-Out",
-    "description": "",
-    "location": "",
-    "phone": "242-357-0663",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "boat-yard-haul-out",
-      "boating",
-      "marinas-boating"
-    ]
-  },
-  {
-    "id": "salty-living",
-    "name": "Salty Living",
-    "category": "Marinas & Boating",
-    "subcategory": "Boat Cleaning",
-    "description": "",
-    "location": "",
-    "phone": "242-556-2387, 242-524-2555",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "boat-cleaning",
-      "boating",
-      "marinas-boating"
-    ]
-  },
-  {
-    "id": "adrian",
-    "name": "Adrian",
-    "category": "Marinas & Boating",
-    "subcategory": "Diesel/ Generator Repair/Electrical",
-    "description": "",
-    "location": "",
-    "phone": "242-804-1414",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "boating",
-      "diesel-generator-repair-electrical",
-      "marinas-boating"
-    ]
-  },
-  {
-    "id": "leroy",
-    "name": "Leroy",
-    "category": "Marinas & Boating",
-    "subcategory": "Diesel/ Generator Repair/Electrical",
-    "description": "",
-    "location": "",
-    "phone": "242-556-2387",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "boating",
-      "diesel-generator-repair-electrical",
-      "marinas-boating"
-    ]
-  },
-  {
-    "id": "trini",
-    "name": "Trini",
-    "category": "Marinas & Boating",
-    "subcategory": "Diesel/ Generator Repair/Electrical",
-    "description": "(generator)",
-    "location": "",
-    "phone": "242-464-1817",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "generator",
-    "tags": [
-      "boating",
-      "diesel-generator-repair-electrical",
-      "marinas-boating"
-    ]
-  },
-  {
-    "id": "alric",
-    "name": "Alric",
-    "category": "Marinas & Boating",
-    "subcategory": "Diesel/ Generator Repair/Electrical",
-    "description": "(electrical)",
-    "location": "",
-    "phone": "242-814-0488",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "electrical",
-    "tags": [
-      "boating",
-      "diesel-generator-repair-electrical",
-      "marinas-boating"
     ]
   },
   {
@@ -1374,460 +1512,6 @@
     ]
   },
   {
-    "id": "top-ii-bottom",
-    "name": "Top Ii Bottom",
-    "category": "Shopping & Supplies",
-    "subcategory": "Hardware / Marine Supplies",
-    "description": "",
-    "location": "",
-    "phone": "242-336-2200",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "hardware-marine-supplies",
-      "shopping-supplies"
-    ]
-  },
-  {
-    "id": "browns-marina-marine",
-    "name": "Browns Marina / Marine",
-    "category": "Marinas & Boating",
-    "subcategory": "Outboards",
-    "description": "(YAMAHA / SUZUKI DEALER)",
-    "location": "",
-    "phone": "242-336-3330",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "YAMAHA / SUZUKI DEALER",
-    "tags": [
-      "boating",
-      "marinas-boating",
-      "outboards"
-    ]
-  },
-  {
-    "id": "bow-to-stern",
-    "name": "Bow To Stern",
-    "category": "Marinas & Boating",
-    "subcategory": "Outboards",
-    "description": "(Alfonso)",
-    "location": "",
-    "phone": "242-824-0380",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "Alfonso",
-    "tags": [
-      "boating",
-      "marinas-boating",
-      "outboards"
-    ]
-  },
-  {
-    "id": "eric-morley-jr",
-    "name": "Eric Morley Jr.",
-    "category": "Marinas & Boating",
-    "subcategory": "Outboards",
-    "description": "",
-    "location": "",
-    "phone": "242-425-3840",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "boating",
-      "marinas-boating",
-      "outboards"
-    ]
-  },
-  {
-    "id": "minns",
-    "name": "Minns",
-    "category": "Marinas & Boating",
-    "subcategory": "Outboards",
-    "description": "",
-    "location": "",
-    "phone": "242-336-3483",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "boating",
-      "marinas-boating",
-      "outboards"
-    ]
-  },
-  {
-    "id": "rolle-refrigeration",
-    "name": "Rolle Refrigeration",
-    "category": "Home & Property Services",
-    "subcategory": "Refrigeration",
-    "description": "",
-    "location": "",
-    "phone": "242-357-0538",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "home-property-services",
-      "refrigeration"
-    ]
-  },
-  {
-    "id": "gesner-sail-repair",
-    "name": "Gesner Sail Repair",
-    "category": "Marinas & Boating",
-    "subcategory": "Sail Repair",
-    "description": "",
-    "location": "",
-    "phone": "242-425-7362",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "boating",
-      "marinas-boating",
-      "sail-repair"
-    ]
-  },
-  {
-    "id": "roston-mcgregor-valiant-marine-salvage-whatsapp",
-    "name": "Roston McGregor Valiant Marine Salvage WhatsApp",
-    "category": "Marinas & Boating",
-    "subcategory": "Salvage/Towing",
-    "description": "",
-    "location": "",
-    "phone": "242-422-7146",
-    "whatsapp": "242-422-7146",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "boating",
-      "marinas-boating",
-      "salvage-towing",
-      "whatsapp"
-    ]
-  },
-  {
-    "id": "omar",
-    "name": "Omar",
-    "category": "Home & Property Services",
-    "subcategory": "Welding",
-    "description": "",
-    "location": "",
-    "phone": "242-524-5184",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "home-property-services",
-      "welding"
-    ]
-  },
-  {
-    "id": "ej-welding",
-    "name": "EJ Welding",
-    "category": "Home & Property Services",
-    "subcategory": "Welding",
-    "description": "",
-    "location": "",
-    "phone": "242-824-0380",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "home-property-services",
-      "welding"
-    ]
-  },
-  {
-    "id": "patrick",
-    "name": "Patrick",
-    "category": "Home & Property Services",
-    "subcategory": "Welding",
-    "description": "",
-    "location": "",
-    "phone": "242-357-0367",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "home-property-services",
-      "welding"
-    ]
-  },
-  {
-    "id": "jamal-2",
-    "name": "Jamal",
-    "category": "Essentials & Emergency",
-    "subcategory": "Other",
-    "description": "(Trash, Propane, Laundry etc.)",
-    "location": "",
-    "phone": "242-395-2911",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "Trash, Propane, Laundry etc.",
-    "tags": [
-      "essentials-emergency",
-      "other"
-    ]
-  },
-  {
-    "id": "dons-rent-a-car",
-    "name": "Don's Rent a Car",
-    "category": "Transportation",
-    "subcategory": "Car Rental",
-    "description": "Car rental option on Great Exuma.",
-    "location": "Great Exuma",
-    "phone": "1-242-345-0112",
-    "whatsapp": "",
-    "email": "donsrentalcar@hotmail.com",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "car rental",
-      "transportation"
-    ]
-  },
-  {
-    "id": "vibe-exuma",
-    "name": "VIBE Exuma",
-    "category": "Home & Property Services",
-    "subcategory": "Chef Services",
-    "description": "Private chef/catering service.",
-    "location": "Georgetown",
-    "phone": "1-242-805-8423",
-    "whatsapp": "1-242-805-8423",
-    "email": "info@vibeexuma.com",
-    "website": "www.vibeexuma.com",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "chef",
-      "catering",
-      "private chef",
-      "services"
-    ]
-  },
-  {
-    "id": "dena-donuts-denas-catering",
-    "name": "Dena Donuts / Dena's Catering",
-    "category": "Home & Property Services",
-    "subcategory": "Chef Services",
-    "description": "Catering and platters (also known for donuts).",
-    "location": "",
-    "phone": "1-242-814-9698",
-    "whatsapp": "1-242-814-9698",
-    "email": "cyrilladena@gmail.com",
-    "website": "",
-    "hours": "",
-    "notes": "Instagram: @denadonuts_denascatering | Facebook: Dena Donuts",
-    "tags": [
-      "chef",
-      "catering",
-      "food",
-      "services"
-    ]
-  },
-  {
-    "id": "t-v-platters-fruit-arrangements",
-    "name": "T & V Platters and Fruit Arrangements",
-    "category": "Home & Property Services",
-    "subcategory": "Chef Services",
-    "description": "Platters and fruit arrangements.",
-    "location": "Georgetown",
-    "phone": "1-242-801-8460",
-    "whatsapp": "1-242-801-8460",
-    "email": "fruit.platters.arrangements@gmail.com",
-    "website": "tandvplatters.com",
-    "hours": "",
-    "notes": "Instagram: @tandvplattersandtrays | Facebook: T & V Platters and Fruit Arrangements",
-    "tags": [
-      "chef",
-      "catering",
-      "fruit",
-      "platters",
-      "services"
-    ]
-  },
-  {
-    "id": "simply-devine-catering",
-    "name": "Simply Devine Catering",
-    "category": "Home & Property Services",
-    "subcategory": "Chef Services",
-    "description": "Catering service in Little Exuma.",
-    "location": "Little Exuma",
-    "phone": "1-242-826-4498",
-    "whatsapp": "1-242-826-4498",
-    "email": "chefadderley2@hotmail.com",
-    "website": "",
-    "hours": "",
-    "notes": "Instagram: @_simplydevine242",
-    "tags": [
-      "chef",
-      "catering",
-      "services"
-    ]
-  },
-  {
-    "id": "natures-best-onike-rondell-knowles",
-    "name": "Nature's Best (Onike & Rondell Knowles)",
-    "category": "Home & Property Services",
-    "subcategory": "Chef Services",
-    "description": "Chef/catering service.",
-    "location": "",
-    "phone": "1-242-524-8675",
-    "whatsapp": "",
-    "email": "",
-    "website": "",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "chef",
-      "catering",
-      "services"
-    ]
-  },
-  {
-    "id": "a-wedding-breeze",
-    "name": "A Wedding Breeze",
-    "category": "Home & Property Services",
-    "subcategory": "Wedding Planner",
-    "description": "Wedding planning services.",
-    "location": "",
-    "phone": "1-242-504-5100",
-    "whatsapp": "",
-    "email": "info@aweddingbreeze.com",
-    "website": "aweddingbreeze.com",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "wedding",
-      "planner",
-      "services"
-    ]
-  },
-  {
-    "id": "reno-curling-photography",
-    "name": "Reno Curling Photography",
-    "category": "Home & Property Services",
-    "subcategory": "Photographer",
-    "description": "Photography services.",
-    "location": "George Town, Queenâ€™s Highway",
-    "phone": "1-242-457-0180",
-    "whatsapp": "1-242-457-0180",
-    "email": "",
-    "website": "www.renocurling.com",
-    "hours": "",
-    "notes": "Instagram: @curlingphotography",
-    "tags": [
-      "photographer",
-      "photos",
-      "services"
-    ]
-  },
-  {
-    "id": "images-by-alexander",
-    "name": "IMAGES by Alexander",
-    "category": "Home & Property Services",
-    "subcategory": "Photographer",
-    "description": "Photography services.",
-    "location": "",
-    "phone": "1-242-458-1422",
-    "whatsapp": "",
-    "email": "nelson@ibabahamas.com",
-    "website": "www.ibabahamas.com",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "photographer",
-      "photos",
-      "services"
-    ]
-  },
-  {
-    "id": "island-wellness-exuma-salon-spa",
-    "name": "Island Wellness Exuma Salon & Spa",
-    "category": "Medical & Wellness",
-    "subcategory": "Massage & Yoga",
-    "description": "Salon, spa, massage and yoga services.",
-    "location": "Exuma",
-    "phone": "1-242-524-8309",
-    "whatsapp": "1-242-524-8309",
-    "email": "duniavega12@hotmail.com",
-    "website": "www.islandwellnessexuma.com",
-    "hours": "",
-    "notes": "Instagram: @islandwellnessmassageyoga",
-    "tags": [
-      "massage",
-      "yoga",
-      "spa",
-      "wellness"
-    ]
-  },
-  {
-    "id": "exuma-healing-hands-massage",
-    "name": "Exuma Healing Hands Massage",
-    "category": "Medical & Wellness",
-    "subcategory": "Massage & Yoga",
-    "description": "In-home relaxing and therapeutic massages and spa services.",
-    "location": "Exuma",
-    "phone": "1-242-524-4274",
-    "whatsapp": "1-242-524-4274",
-    "email": "healinghandsmassage17@hotmail.com",
-    "website": "www.exumahealinghandsmassage.com",
-    "hours": "",
-    "notes": "Instagram: @exumahealinghandsmassage",
-    "tags": [
-      "massage",
-      "spa",
-      "wellness"
-    ]
-  },
-  {
-    "id": "exuma-massage",
-    "name": "Exuma Massage",
-    "category": "Medical & Wellness",
-    "subcategory": "Massage & Yoga",
-    "description": "Massage services.",
-    "location": "Exuma",
-    "phone": "1-242-357-0684",
-    "whatsapp": "",
-    "email": "lyn@exumamassage.com",
-    "website": "exumamassage.com",
-    "hours": "",
-    "notes": "",
-    "tags": [
-      "massage",
-      "wellness"
-    ]
-  },
-  {
     "id": "exuma-flip-flop-recycling-project",
     "name": "Exuma Flip Flop Recycling Project",
     "category": "Shopping & Supplies",
@@ -1868,40 +1552,75 @@
     ]
   },
   {
-    "id": "makers-air-ascend-via-makers-air",
-    "name": "Makers Air / Ascend via Makers Air",
-    "category": "Transportation",
-    "subcategory": "Private Aviation",
-    "description": "Private air charter options to the Bahamas/Exuma.",
-    "location": "Fort Lauderdale",
-    "phone": "1-957-771-0330",
-    "whatsapp": "1-954-383-2774",
-    "email": "info@ascendmakersair.com",
-    "website": "makersair.com",
+    "id": "top-ii-bottom",
+    "name": "Top Ii Bottom",
+    "category": "Shopping & Supplies",
+    "subcategory": "Hardware / Marine Supplies",
+    "description": "",
+    "location": "",
+    "phone": "242-336-2200",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
     "hours": "",
-    "notes": "Instagram: @makers_air and @ascendviamakersair",
+    "notes": "",
     "tags": [
-      "private aviation",
-      "charter",
+      "hardware-marine-supplies",
+      "shopping-supplies"
+    ]
+  },
+  {
+    "id": "a-1-water-taxi",
+    "name": "A-1 Water Taxi",
+    "category": "Transportation",
+    "subcategory": "Water Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-357-0544",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation",
+      "water-taxi"
+    ]
+  },
+  {
+    "id": "a1a-car-rental",
+    "name": "A1a Car Rental",
+    "category": "Transportation",
+    "subcategory": "Car Rental",
+    "description": "(kitty corner to Lee\u2019s Laundry)",
+    "location": "",
+    "phone": "242-464-1883",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "kitty corner to Lee\u2019s Laundry",
+    "tags": [
+      "car-rental",
       "transportation"
     ]
   },
   {
-    "id": "staniel-air",
-    "name": "Staniel Air",
+    "id": "airport-car-rental",
+    "name": "Airport Car Rental",
     "category": "Transportation",
-    "subcategory": "Private Aviation",
-    "description": "Turbo prop charter from Fort Lauderdale.",
-    "location": "Fort Lauderdale",
-    "phone": "1-954-900-2739",
+    "subcategory": "Car Rental",
+    "description": "",
+    "location": "",
+    "phone": "242-345-0090",
     "whatsapp": "",
-    "email": "info@stanielair.com",
-    "website": "stanielair.com",
+    "email": "info@exumacarrental.com",
+    "website": "exumacarrental.com",
     "hours": "",
     "notes": "",
     "tags": [
-      "private aviation",
-      "charter",
+      "car-rental",
       "transportation"
     ]
   },
@@ -1925,21 +1644,165 @@
     ]
   },
   {
-    "id": "jetlevel-aviation",
-    "name": "JetLevel Aviation",
+    "id": "bernese-marshall",
+    "name": "Bernese Marshall",
     "category": "Transportation",
-    "subcategory": "Private Aviation",
-    "description": "Aircraft charter options.",
+    "subcategory": "Taxi",
+    "description": "",
     "location": "",
-    "phone": "1-407-712-4863",
+    "phone": "242-357-0876",
     "whatsapp": "",
-    "email": "ricky@jetlevel.com",
-    "website": "jetlevel.com",
+    "email": "",
+    "website": "",
     "hours": "",
     "notes": "",
     "tags": [
-      "private aviation",
-      "charter",
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "burtels-car-rental",
+    "name": "Burtels Car Rental",
+    "category": "Transportation",
+    "subcategory": "Car Rental",
+    "description": "",
+    "location": "",
+    "phone": "242-336-3290",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "car-rental",
+      "transportation"
+    ]
+  },
+  {
+    "id": "deandre-rolle-taxi-5",
+    "name": "Deandre Rolle Taxi #5",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-524-5192",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "devon",
+    "name": "Devon",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-470-2309",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "dimitri-smith-taxi-28",
+    "name": "Dimitri Smith \u2013 Taxi 28",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-357-0405",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "dons-rent-a-car",
+    "name": "Don's Rent a Car",
+    "category": "Transportation",
+    "subcategory": "Car Rental",
+    "description": "Car rental option on Great Exuma.",
+    "location": "Great Exuma",
+    "phone": "1-242-345-0112",
+    "whatsapp": "",
+    "email": "donsrentalcar@hotmail.com",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "car rental",
+      "transportation"
+    ]
+  },
+  {
+    "id": "douglas-gibson-85",
+    "name": "Douglas Gibson #85",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-524-5052",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "elvis-water-taxi",
+    "name": "Elvis Water Taxi",
+    "category": "Transportation",
+    "subcategory": "Water Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-464-1558",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation",
+      "water-taxi"
+    ]
+  },
+  {
+    "id": "exuma-transport",
+    "name": "Exuma Transport",
+    "category": "Transportation",
+    "subcategory": "Car Rental",
+    "description": "",
+    "location": "",
+    "phone": "242-336-2101",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "car-rental",
       "transportation"
     ]
   },
@@ -1959,6 +1822,315 @@
     "tags": [
       "private aviation",
       "charter",
+      "transportation"
+    ]
+  },
+  {
+    "id": "gully-rolle-taxi-71",
+    "name": "Gully Rolle \u2013 Taxi 71",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-464-1154",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "island-wide-transit",
+    "name": "Island Wide Transit",
+    "category": "Transportation",
+    "subcategory": "Bus Service",
+    "description": "(Barry)",
+    "location": "",
+    "phone": "242-816-1384",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "Barry",
+    "tags": [
+      "bus-service",
+      "transportation"
+    ]
+  },
+  {
+    "id": "jj-s-taxi-14-8442",
+    "name": "JJ's \u2013 Taxi 14 /8442",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-524-7443",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "jetlevel-aviation",
+    "name": "JetLevel Aviation",
+    "category": "Transportation",
+    "subcategory": "Private Aviation",
+    "description": "Aircraft charter options.",
+    "location": "",
+    "phone": "1-407-712-4863",
+    "whatsapp": "",
+    "email": "ricky@jetlevel.com",
+    "website": "jetlevel.com",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "private aviation",
+      "charter",
+      "transportation"
+    ]
+  },
+  {
+    "id": "leslie-taxi",
+    "name": "Leslie Taxi",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-524-0012",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "Taxi #12",
+    "tags": [
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "makers-air-ascend-via-makers-air",
+    "name": "Makers Air / Ascend via Makers Air",
+    "category": "Transportation",
+    "subcategory": "Private Aviation",
+    "description": "Private air charter options to the Bahamas/Exuma.",
+    "location": "Fort Lauderdale",
+    "phone": "1-957-771-0330",
+    "whatsapp": "1-954-383-2774",
+    "email": "info@ascendmakersair.com",
+    "website": "makersair.com",
+    "hours": "",
+    "notes": "Instagram: @makers_air and @ascendviamakersair",
+    "tags": [
+      "private aviation",
+      "charter",
+      "transportation"
+    ]
+  },
+  {
+    "id": "matia-taxi-87",
+    "name": "Matia \u2013 Taxi 87",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-464-1037",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "moejayz",
+    "name": "Moejayz",
+    "category": "Transportation",
+    "subcategory": "Car Rental",
+    "description": "(across from Corner Laundry)",
+    "location": "",
+    "phone": "242-524-8228",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "across from Corner Laundry",
+    "tags": [
+      "car-rental",
+      "transportation"
+    ]
+  },
+  {
+    "id": "pablo",
+    "name": "Pablo",
+    "category": "Transportation",
+    "subcategory": "Car Rental",
+    "description": "",
+    "location": "",
+    "phone": "242-808-8471",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "car-rental",
+      "transportation"
+    ]
+  },
+  {
+    "id": "patrick-taxi-13",
+    "name": "Patrick Taxi #13",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-464-1411",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "pink-floyds",
+    "name": "Pink Floyds",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-829-8783",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "queenie",
+    "name": "Queenie",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-524-7240",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "rudy-s-taxi-9",
+    "name": "Rudy's \u2013 Taxi #9",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-524-1989",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "staniel-air",
+    "name": "Staniel Air",
+    "category": "Transportation",
+    "subcategory": "Private Aviation",
+    "description": "Turbo prop charter from Fort Lauderdale.",
+    "location": "Fort Lauderdale",
+    "phone": "1-954-900-2739",
+    "whatsapp": "",
+    "email": "info@stanielair.com",
+    "website": "stanielair.com",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "private aviation",
+      "charter",
+      "transportation"
+    ]
+  },
+  {
+    "id": "taxi-23",
+    "name": "Taxi 23",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-524-8371, 242-524-0832",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "",
+    "tags": [
+      "taxi",
+      "transportation"
+    ]
+  },
+  {
+    "id": "thompson-car-rental",
+    "name": "Thompson Car Rental",
+    "category": "Transportation",
+    "subcategory": "Car Rental",
+    "description": "",
+    "location": "",
+    "phone": "242-336-2442",
+    "whatsapp": "",
+    "email": "thompsonsrental@hotmail.com",
+    "website": "exumacars.com",
+    "hours": "",
+    "notes": "- Caravan $130 /day 10% tax, insurance optional, $1000 security deposit cast/debit",
+    "tags": [
+      "car-rental",
+      "transportation"
+    ]
+  },
+  {
+    "id": "x",
+    "name": "X",
+    "category": "Transportation",
+    "subcategory": "Taxi",
+    "description": "",
+    "location": "",
+    "phone": "242-524-5220",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "hours": "",
+    "notes": "Luther Rolle \u2013 Taxi 29 242",
+    "tags": [
+      "taxi",
       "transportation"
     ]
   }
