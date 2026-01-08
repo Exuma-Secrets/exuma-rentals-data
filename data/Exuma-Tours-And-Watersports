@@ -1,0 +1,532 @@
+[
+  {
+    "title": "Hydro Watersports 242",
+    "category": "Eco Tours",
+    "subcategory": "Hydro Bikes",
+    "location": "Rolle Town & Hartswell",
+    "description": "Hydro bikes on crystal-clear water. Great for families, filming, and calm-water exploring.",
+    "phone": "+1-242-524-9376",
+    "whatsapp": "+1-242-524-9376",
+    "email": "hydrowatersports242@gmail.com",
+    "website": "https://hydrowatersports242.com/",
+    "social": [
+      "https://www.instagram.com/hydrowatersports242/",
+      "https://www.facebook.com/hydrowatersports242/"
+    ],
+    "tags": [
+      "hydro bikes",
+      "eco",
+      "family"
+    ]
+  },
+  {
+    "title": "TT Watersports",
+    "category": "Eco Tours",
+    "subcategory": "Kayak / SUP Tours",
+    "location": "The Ferry Bridge (Moriah Harbour)",
+    "description": "Mobile, guide-led eco adventures launching from the Ferry Bridge. Great for sandbars and shallow-water exploring.",
+    "phone": "+1-242-357-0594",
+    "whatsapp": "",
+    "email": "ttwatesports@gmail.com",
+    "website": "https://www.ttwatersports.com/",
+    "social": [
+      "https://www.instagram.com/ttwatersports/",
+      "https://www.youtube.com/@ttwatersports2709"
+    ],
+    "tags": [
+      "kayak",
+      "sup",
+      "eco",
+      "guided"
+    ]
+  },
+  {
+    "title": "Paddle with Tazan",
+    "category": "Eco Tours",
+    "subcategory": "Paddleboard Tours",
+    "location": "Great Exuma",
+    "description": "Guided paddleboarding tours that show off turquoise flats, hidden coves, and marine life. Beginner-friendly.",
+    "phone": "+1-224-605-5431",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "social": [
+      "https://www.facebook.com/"
+    ],
+    "tags": [
+      "paddleboard",
+      "sup",
+      "eco",
+      "guided"
+    ]
+  },
+  {
+    "title": "T-Tide Rentals",
+    "category": "Water Sport Rentals",
+    "subcategory": "Kite Surf / Kayak / SUP",
+    "location": "Great Exuma",
+    "description": "Rentals for kitesurfing, kayaking, and stand-up paddleboarding.",
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "social": [],
+    "tags": [
+      "kite",
+      "kayak",
+      "sup",
+      "rentals"
+    ]
+  },
+  {
+    "title": "Out-Island Explorers",
+    "category": "Water Sport Rentals",
+    "subcategory": "Kayak / SUP / Eco Adventures",
+    "location": "Great Exuma",
+    "description": "Water-based adventures and rentals. Also appears in many directories for paddling and exploring.",
+    "phone": "+1-242-524-8246",
+    "whatsapp": "",
+    "email": "info@outislandexplorers.com",
+    "website": "https://outislandexplorers.com/",
+    "social": [],
+    "tags": [
+      "kayak",
+      "sup",
+      "eco"
+    ]
+  },
+  {
+    "title": "Low Tide Adventures",
+    "category": "Water Sport Rentals",
+    "subcategory": "Seabob Rentals",
+    "location": "Great Exuma",
+    "description": "Rent a Seabob and explore Exumaâ€™s shallow-water playgrounds and reefs.",
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "website": "https://www.lowtideadventures.net/",
+    "social": [],
+    "tags": [
+      "seabob",
+      "rentals"
+    ]
+  },
+  {
+    "title": "Exuma Kite Surfing + SUP",
+    "category": "Water Sport Rentals",
+    "subcategory": "Kite Surf / SUP",
+    "location": "Great Exuma",
+    "description": "Kiteboarding and SUP options in Exuma.",
+    "phone": "+1-242-524-7098",
+    "whatsapp": "",
+    "email": "info@exumakitesurfing.com",
+    "website": "https://exumakitesurfing.com/",
+    "social": [],
+    "tags": [
+      "kite",
+      "sup"
+    ]
+  },
+  {
+    "title": "Exuma Watersports",
+    "category": "Boat Tours",
+    "subcategory": "Group Tours + Private Charters",
+    "location": "Barraterre + Brownâ€™s Marina (confirm exact meeting point)",
+    "description": "Well-known operator offering public tours and private charters. Popular for Moriah Harbour / marine park style days and classic Exuma highlights. Starting from $175 per person (public), private from $1800/group (half day) and $3900/group (full day).",
+    "phone": "+12423570770",
+    "whatsapp": "",
+    "email": "info@exumawatersports.com",
+    "website": "https://exumawatersports.com/",
+    "social": [],
+    "tags": [
+      "group",
+      "private",
+      "pigs",
+      "snorkel",
+      "sandbar",
+      "moriah",
+      "marine-park"
+    ],
+    "notes": "Alt/previous phone: +1-242-357-0770"
+  },
+  {
+    "title": "Seahorse Pontoon Boat Rentals & Tours",
+    "category": "Water Sport Rentals",
+    "subcategory": "Pontoons / Water Toys",
+    "location": "Great Exuma",
+    "description": "Pontoon boat rentals and tours, plus water toys for the family.",
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "website": "",
+    "social": [
+      "https://www.instagram.com/seahorsepontoonboat.rentalsandtours/"
+    ],
+    "tags": [
+      "pontoon",
+      "rentals",
+      "tours"
+    ]
+  },
+  {
+    "title": "Sugar Adventure Company",
+    "category": "Boat Tours",
+    "subcategory": "Boat Tours",
+    "location": "Great Exuma",
+    "description": "Island-hopping and day-trip style boat tours.",
+    "phone": "+1-242-524-8093",
+    "whatsapp": "",
+    "email": "info@sugaradventure.com",
+    "website": "https://sugaradventure.com/",
+    "social": [],
+    "tags": [
+      "boat tour",
+      "island hopping"
+    ]
+  },
+  {
+    "title": "Dive Exuma",
+    "category": "Boat Tours",
+    "subcategory": "Diving",
+    "location": "Great Exuma",
+    "description": "Scuba diving trips and water activities.",
+    "phone": "+1-242-357-0313",
+    "whatsapp": "",
+    "email": "info@dive-exuma.com",
+    "website": "https://dive-exuma.com/",
+    "social": [],
+    "tags": [
+      "scuba",
+      "dive"
+    ]
+  },
+  {
+    "title": "Off Island Tours",
+    "category": "Boat Tours",
+    "subcategory": "Boat Tours",
+    "location": "Great Exuma",
+    "description": "Boat tours and adventures around the Exuma Cays.",
+    "phone": "+1-242-524-0524",
+    "whatsapp": "",
+    "email": "steven@offislandboattours.com",
+    "website": "https://offislandadventures.com/",
+    "social": [],
+    "tags": [
+      "boat tour"
+    ]
+  },
+  {
+    "title": "Island Boy Adventures",
+    "category": "Boat Tours",
+    "subcategory": "Private Charters",
+    "location": "(confirm at booking)",
+    "description": "Private charter packages with pre-priced options. Half-day from $1500 (first 8), full-day from $2000 (first 8), Sandy Cay full-day from $2090 (first 8), and premium north Exuma Cays trips from $3600 (first 10).",
+    "phone": "+12424222697",
+    "whatsapp": "",
+    "email": "islandboyadventures242@gmail.com",
+    "website": "https://islandboyadventures.com/",
+    "social": [],
+    "tags": [
+      "private",
+      "pigs",
+      "snorkel",
+      "sandbar",
+      "sandy-cay",
+      "cays"
+    ],
+    "notes": "Alt/previous phone: +1-242-357-0459 | Alt/previous email: evviemunnings@me.com"
+  },
+  {
+    "title": "Roberts Island Adventures",
+    "category": "Boat Tours",
+    "subcategory": "Group Tours + Private Charters",
+    "location": "(confirm at booking)",
+    "description": "Clear pricing for group tours plus private half-day/full-day options. Group: adult (6+) $308, child (5 and under) $140. Private: half day $1250 (1â€“6 guests) and full day $2750 (1â€“6 guests) plus additional guest fee.",
+    "phone": "+12423570224",
+    "whatsapp": "",
+    "email": "info@robertsislandadventures.com",
+    "website": "https://www.robertsislandadventures.com/",
+    "social": [],
+    "tags": [
+      "group",
+      "private",
+      "pigs",
+      "snorkel",
+      "sandbar"
+    ],
+    "notes": "Alt/previous phone: +1-242-357-0224"
+  },
+  {
+    "title": "Exuma Cays Adventures",
+    "category": "Boat Tours",
+    "subcategory": "Boat Tours",
+    "location": "Great Exuma",
+    "description": "Boat tours into the Exuma Cays.",
+    "phone": "+1-242-357-0390",
+    "whatsapp": "",
+    "email": "",
+    "website": "https://exumacaysadventures.com/",
+    "social": [],
+    "tags": [
+      "boat tour",
+      "cays"
+    ]
+  },
+  {
+    "title": "Minns Watersports",
+    "category": "Boat Rentals",
+    "subcategory": "Boston Whaler + Power Cat",
+    "location": "George Town / Elizabeth Harbour",
+    "description": "Well-known rentals for Elizabeth Harbour exploring. Offers Power Cat boats, which can provide a smoother ride when water is choppy (confirm availability and rules).",
+    "phone": "(242) 336-3483 / (242) 524-8212",
+    "whatsapp": "",
+    "email": "info@mwsboats.com",
+    "website": "https://mwsboats.com/",
+    "social": [],
+    "tags": [
+      "whaler",
+      "power-cat",
+      "daily",
+      "multi-day",
+      "weekly",
+      "contract",
+      "fuel",
+      "smooth-ride"
+    ],
+    "notes": "Alt/previous phone: +1-242-336-2604"
+  },
+  {
+    "title": "Lil Geno Jet Ski Rentals",
+    "category": "Water Sport Rentals",
+    "subcategory": "Jet Skis",
+    "location": "Little Exuma (Williamstown)",
+    "description": "Local jet ski rentals.",
+    "phone": "+1-242-524-3207",
+    "whatsapp": "+1-242-524-3207",
+    "email": "genogray85@gmail.com",
+    "website": "",
+    "social": [
+      "https://www.instagram.com/saltife_geno24/",
+      "https://www.facebook.com/"
+    ],
+    "tags": [
+      "jet ski",
+      "rentals"
+    ]
+  },
+  {
+    "title": "Splashzone Watersports Jet Ski Rental",
+    "category": "Water Sport Rentals",
+    "subcategory": "Jet Skis",
+    "location": "Little Exuma",
+    "description": "Jet ski rentals.",
+    "phone": "+1-242-464-1459",
+    "whatsapp": "+1-242-464-1459",
+    "email": "matthewglass527@gmail.com",
+    "website": "",
+    "social": [
+      "https://www.instagram.com/splashzonewatersports/"
+    ],
+    "tags": [
+      "jet ski",
+      "rentals"
+    ]
+  },
+  {
+    "title": "Tempo Watersports",
+    "category": "Water Sport Rentals",
+    "subcategory": "Watersports",
+    "location": "Rolletown",
+    "description": "Watersports rentals and experiences.",
+    "phone": "+1-242-819-3424",
+    "whatsapp": "+1-242-819-3424",
+    "email": "",
+    "website": "https://tempowatersports.com/",
+    "social": [
+      "https://www.instagram.com/tempowatersports/"
+    ],
+    "tags": [
+      "watersports",
+      "rentals"
+    ]
+  },
+  {
+    "title": "Coastline Adventures Exuma",
+    "category": "Boat Tours",
+    "subcategory": "Group Tours + Private Charters",
+    "location": "(confirm at booking)",
+    "description": "Offers group tours and private charters with Exuma Cays-style highlights. Full-day group from $300 per person; private from $2000â€“$3000+ (based on trip).",
+    "phone": "+12425248575",
+    "whatsapp": "",
+    "email": "",
+    "website": "https://coastlineadventuresexuma.com/",
+    "social": [],
+    "tags": [
+      "group",
+      "private",
+      "pigs",
+      "snorkel",
+      "sandbar",
+      "cays"
+    ]
+  },
+  {
+    "title": "Issa Wybe",
+    "category": "Boat Tours",
+    "subcategory": "Private / Bespoke Tours",
+    "location": "(confirm at booking)",
+    "description": "Local-guide style exploring, often leaning toward southern Exuma reefs, sandbars, and beach stops. Half-day (4 hrs) $850 BSD; full-day (8 hrs) $1,350 BSD; bespoke pricing on request.",
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "website": "https://www.issawybe.com/",
+    "social": [],
+    "tags": [
+      "private",
+      "snorkel",
+      "sandbar",
+      "south-exuma"
+    ]
+  },
+  {
+    "title": "Awesome Al Water Sports",
+    "category": "Boat Tours",
+    "subcategory": "Private Charters",
+    "location": "(confirm at booking)",
+    "description": "Private harbor cruising and classic water-day stops with flexible pacing. Half-day pigs tour $1200; full-day harbor tour $1500; half-day harbor tour $1000; 'Bend Ya Elbow Cruise' $1000.",
+    "phone": "+12428150978",
+    "whatsapp": "",
+    "email": "",
+    "website": "https://aawexuma.com/",
+    "social": [],
+    "tags": [
+      "private",
+      "pigs",
+      "snorkel",
+      "sandbar",
+      "harbour"
+    ]
+  },
+  {
+    "title": "Tours R Us Exuma",
+    "category": "Boat Tours",
+    "subcategory": "Tours + Private Charters (Quote-Based)",
+    "location": "(confirm at booking)",
+    "description": "Flexible itinerary planning. Good if you want to describe your dream day and have the captain build the route around your group. Pricing is quote-based.",
+    "phone": "+12425241319",
+    "whatsapp": "",
+    "email": "info@toursrusexuma.com",
+    "website": "https://toursrusexuma.com/",
+    "social": [],
+    "tags": [
+      "group",
+      "private",
+      "pigs",
+      "snorkel",
+      "sandbar",
+      "custom"
+    ]
+  },
+  {
+    "title": "Off Island Boat Tours",
+    "category": "Boat Tours",
+    "subcategory": "Private Charters (Quote-Based)",
+    "location": "(confirm at booking)",
+    "description": "Private charter-style touring with custom routing based on weather and sea conditions. Pricing is quote-based.",
+    "phone": "+12425240524",
+    "whatsapp": "",
+    "email": "colefyah@gmail.com",
+    "website": "https://offislandboattours.com/",
+    "social": [],
+    "tags": [
+      "private",
+      "snorkel",
+      "sandbar",
+      "custom"
+    ]
+  },
+  {
+    "title": "Comfort Venture Tours",
+    "category": "Boat Tours",
+    "subcategory": "Open Seating + Private",
+    "location": "Barraterre Dock",
+    "description": "Open seating tours and private full-day options with a structured itinerary and clear stop list. Open seating from $275 per person; private full-day starting around $2600 (confirm).",
+    "phone": "+12423570611",
+    "whatsapp": "",
+    "email": "info@comfortventuretours.com",
+    "website": "https://comfortventuretours.com/",
+    "social": [],
+    "tags": [
+      "group",
+      "private",
+      "pigs",
+      "snorkel",
+      "sandbar",
+      "thunderball",
+      "iguana"
+    ]
+  },
+  {
+    "title": "Exumas Boat Rentals",
+    "category": "Boat Rentals",
+    "subcategory": "Daily + Multi-Day + Weekly",
+    "location": "Brownâ€™s Marine & Boat Storage (George Town area)",
+    "description": "Boat rentals based at Brownâ€™s Marine with full-day, multi-day, and weekly options. Pontoon and power boat choices. Overnight may be possible for multi-day rentals with a secure dock (confirm rules/fees).",
+    "phone": "(242) 809-9348 / (242) 433-9438",
+    "whatsapp": "",
+    "email": "exumasboatrentals@gmail.com",
+    "website": "https://exumasboatrentals.com/",
+    "social": [],
+    "tags": [
+      "pontoon",
+      "center-console",
+      "daily",
+      "multi-day",
+      "weekly",
+      "overnight",
+      "contract",
+      "fuel"
+    ]
+  },
+  {
+    "title": "Sunsplash Rentals",
+    "category": "Boat Rentals",
+    "subcategory": "Center Console Rentals",
+    "location": "George Town / Elizabeth Harbour",
+    "description": "Center console rentals in George Town for beach hopping and nearshore exploring (confirm boundaries, fuel rules, and deposit). Daily and multi-day options.",
+    "phone": "",
+    "whatsapp": "",
+    "email": "info@sunsplashrentals.com",
+    "website": "https://www.sunsplashrentals.com/",
+    "social": [],
+    "tags": [
+      "center-console",
+      "daily",
+      "multi-day",
+      "overnight",
+      "contract",
+      "fuel"
+    ]
+  },
+  {
+    "title": "Island Exclusive Boat Rentals & Tours",
+    "category": "Boat Rentals",
+    "subcategory": "Daily + Weekly (Delivery Available)",
+    "location": "Hoopers Bay (office); delivery to Government Dock George Town and/or approved docks (confirm)",
+    "description": "Daily and weekly rentals with delivery options. Best for local-area exploring; confirm operating boundaries and dock/overnight rules.",
+    "phone": "242-424-7174 / 242-336-0035",
+    "whatsapp": "",
+    "email": "",
+    "website": "https://www.islandexclusiveboatrentalsandtours.com/",
+    "social": [],
+    "tags": [
+      "center-console",
+      "daily",
+      "weekly",
+      "delivery",
+      "overnight",
+      "contract",
+      "fuel"
+    ]
+  }
+]
