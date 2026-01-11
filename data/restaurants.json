@@ -1129,6 +1129,114 @@
         "menu": []
       },
       "last_verified": "2026-01-11"
-    }
+    },
+    {
+  "id": "stacies-sweet-tooth-corner",
+  "name": "Stacie's Sweet Tooth Corner",
+  "island": "Great Exuma",
+  "area": "George Town & Central",
+  "categories": ["Bakery", "Dessert"],
+  "description": "Made-from-scratch baked goods and custom cakes. Orders should be placed 2–3 days in advance (special-order cakes may require more lead time).",
+  "latitude": null,
+  "longitude": null,
+  "links": ["https://www.facebook.com/"],
+  "google_maps": {
+    "search_url": "https://www.google.com/maps/search/?api=1&query=Stacie%27s%20Sweet%20Tooth%20Corner%2C%20Exuma%20Harbour%20Estates%2C%20Exuma%2C%20Bahamas",
+    "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Stacie%27s%20Sweet%20Tooth%20Corner%2C%20Exuma%20Harbour%20Estates%2C%20Exuma%2C%20Bahamas"
+  },
+  "contact": {
+    "phone": "+1 242-524-0583",
+    "website": "",
+    "email": ""
+  },
+  "hours": {},
+  "photos": { "cover": "", "gallery": [], "menu": [] },
+  "last_verified": "2026-01-11"
+},
+    {
+  "id": "miss-js-sweets-and-treats",
+  "name": "Miss J's Sweets & Treats",
+  "island": "Great Exuma",
+  "area": "George Town & Central",
+  "categories": ["Bakery", "Dessert", "Mobile"],
+  "description": "Mobile bakery offering made-from-scratch baked goods, fruit arrangements, and custom cakes.",
+  "latitude": null,
+  "longitude": null,
+  "links": ["https://www.facebook.com/"],
+  "google_maps": {
+    "search_url": "https://www.google.com/maps/search/?api=1&query=Miss%20J%27s%20Sweets%20%26%20Treats%2C%20Exuma%2C%20Bahamas",
+    "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Miss%20J%27s%20Sweets%20%26%20Treats%2C%20Exuma%2C%20Bahamas"
+  },
+  "contact": {
+    "phone": "+1 242-806-3125",
+    "website": "",
+    "email": "missjstreats@gmail.com"
+  },
+  "hours": {},
+  "photos": { "cover": "", "gallery": [], "menu": [] },
+  "last_verified": "2026-01-11"
+},
+{
+  "id": "pedro-sweet-haven",
+  "name": "Pedro Sweet Haven",
+  "island": "Great Exuma",
+  "area": "George Town & Central",
+  "categories": ["Ice Cream", "Dessert"],
+  "description": "Ice cream shop in Bahama Sound #18, George Town. Follow their Instagram for updates and photos.",
+  "latitude": null,
+  "longitude": null,
+  "links": ["https://www.instagram.com/"],
+  "google_maps": {
+    "search_url": "https://www.google.com/maps/search/?api=1&query=Pedro%27s%20Sweet%20Haven%2C%20Bahama%20Sound%2C%20George%20Town%2C%20Exuma%2C%20Bahamas",
+    "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Pedro%27s%20Sweet%20Haven%2C%20Bahama%20Sound%2C%20George%20Town%2C%20Exuma%2C%20Bahamas"
+  },
+  "contact": {
+    "phone": "+1 242-808-4713",
+    "website": "",
+    "email": ""
+  },
+  "hours": {
+    "mon": "12:00-20:00",
+    "tue": "12:00-20:00",
+    "wed": "12:00-20:00",
+    "thu": "12:00-20:00",
+    "fri": "12:00-20:00",
+    "sat": "12:00-20:00",
+    "sun": "15:00-20:00"
+  },
+  "photos": { "cover": "", "gallery": [], "menu": [] },
+  "last_verified": "2026-01-11"
+},
+{
+  "id": "denas-donuts",
+  "name": "Dena's Donuts",
+  "island": "Great Exuma",
+  "area": "George Town & Central",
+  "categories": ["Bakery", "Dessert"],
+  "description": "Handmade donuts and baked treats. Pre-orders required the day before delivery. Deliveries start at 8 AM (Tue–Fri).",
+  "latitude": null,
+  "longitude": null,
+  "links": ["https://www.facebook.com/"],
+  "google_maps": {
+    "search_url": "https://www.google.com/maps/search/?api=1&query=Dena%27s%20Donuts%2C%20Georgetown%2C%20Exuma%2C%20Bahamas",
+    "directions_url": "https://www.google.com/maps/dir/?api=1&destination=Dena%27s%20Donuts%2C%20Georgetown%2C%20Exuma%2C%20Bahamas"
+  },
+  "contact": {
+    "phone": "+1 242-814-9698",
+    "website": "",
+    "email": ""
+  },
+  "hours": {
+    "mon": "closed",
+    "tue": "08:00-delivery",
+    "wed": "08:00-delivery",
+    "thu": "08:00-delivery",
+    "fri": "08:00-delivery",
+    "sat": "closed",
+    "sun": "closed"
+  },
+  "photos": { "cover": "", "gallery": [], "menu": [] },
+  "last_verified": "2026-01-11"
+}
   ]
 }
