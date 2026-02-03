@@ -2496,5 +2496,27 @@
       "whatsapp"
     ],
     "id": "catering-by-chef-vandera"
-  }
+  },
+  {
+  "id": "design-pros-bahamas",
+  "name": "Design Pros Bahamas",
+  "category": "Creative Services",
+  "subcategory": "Paint Parties & Custom Art",
+  "description": "Professional artist Elkino Dames offers vibrant paint parties, custom murals, signs, paintings, and interactive art classes. Ideal for private events, group activities, celebrations, and custom gifts. We bring the fun to you.",
+  "location": "Exuma & Nassau",
+  "phone": "242-456-4989",
+  "whatsapp": "242-456-4989",
+  "email": "elkinodames@gmail.com",
+  "website": "",
+  "hours": "",
+  "notes": "Bahamian-owned creative service. Available for private events, group experiences, and custom art projects.",
+  "tags": [
+    "creative-services",
+    "paint-parties",
+    "things-to-do-exuma",
+    "group-activities",
+    "custom-art",
+    "bahamian-owned"
+  ]
+}
 ]
