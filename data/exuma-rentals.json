@@ -1569,5 +1569,30 @@
     "boat": false,
     "car": false,
     "hot_tub": false
-  }
+  },
+  {
+  "title": "Lovely 2-bedroom cottage with sea views (Hartswell)",
+  "ownership": "Foreign",
+  "location": "Hartswell",
+  "bedrooms": 2,
+  "sleeps": 4,
+  "bathrooms": 2,
+  "beds": 2,
+  "price": 278,
+  "description": "Kick back and relax in this newly constructed calm, stylish cottage nestled in the tranquil settlement of Hartswell, Exuma with beautiful sea views. Enjoy sunrise and sunset while relaxing on the wraparound porch. Conveniently located about 30 minutes from the airport, around 20 minutes from George Town, and a short drive to Little Exuma and Tropic of Cancer Beach.",
+  "images": [
+    "https://media.vrbo.com/lodging/91000000/90130000/90126900/90126872/02dccd8e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://media.vrbo.com/lodging/91000000/90130000/90126900/90126872/e0024ba7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://media.vrbo.com/lodging/91000000/90130000/90126900/90126872/56cc3558.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "https://media.vrbo.com/lodging/91000000/90130000/90126900/90126872/e4aad92e.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+  ],
+  "url": "https://vrbo.com/affiliate/7hcqMQD?url=/3170467",
+  "pool": false,
+  "oceanfront": false,
+  "gym": false,
+  "kayak": false,
+  "boat": false,
+  "car": false,
+  "hot_tub": false
+}
 ]
