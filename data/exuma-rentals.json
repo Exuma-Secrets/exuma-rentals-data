@@ -1620,7 +1620,7 @@
   "pool": true,
   "oceanfront": false,
   "gym": true,
-  "kayak": false,
+  "kayak": true,
   "boat": false,
   "car": false,
   "hot_tub": false
@@ -1650,10 +1650,10 @@
     "https://media.vrbo.com/lodging/105000000/104040000/104033600/104033576/98db89d4.jpg?impolicy=resizecrop&rw=1200&ra=fit"
   ],
   "url": "https://vrbo.com/affiliate/riwq374?url=/3951378",
-  "pool": false,
+  "pool": true,
   "oceanfront": false,
   "gym": false,
-  "kayak": false,
+  "kayak": true,
   "boat": false,
   "car": false,
   "hot_tub": false
@@ -1661,7 +1661,7 @@
   {
   "title": "Private Exuma Vacation Rental (VRBO #2669075)",
   "ownership": "Foreign",
-  "location": "Great Exuma",
+  "location": "Moss Town",
   "bedrooms": 5,
   "sleeps": 13,
   "bathrooms": 4,
@@ -1695,10 +1695,10 @@
     "https://media.vrbo.com/lodging/76000000/75710000/75706800/75706790/d1763da0.jpg?impolicy=resizecrop&rw=1200&ra=fit"
   ],
   "url": "https://vrbo.com/affiliate/YorVDzJ?url=/2669075",
-  "pool": false,
-  "oceanfront": false,
+  "pool": true,
+  "oceanfront": true,
   "gym": false,
-  "kayak": false,
+  "kayak": true,
   "boat": false,
   "car": false,
   "hot_tub": false
