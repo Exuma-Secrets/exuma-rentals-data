@@ -528,5 +528,27 @@
       "contract",
       "fuel"
     ]
-  }
+  },
+{
+  "id": "exuma-adventure-tours",
+  "name": "Exuma Adventure Tours",
+  "category": "Tours",
+  "subcategory": "ATV Tours",
+  "description": "Exuma Adventure Tours offers guided ATV experiences across Great Exuma, giving visitors a unique way to explore the island’s natural beauty, scenic trails, and hidden spots. Perfect for adventure seekers looking to experience Exuma beyond the beaches.",
+  "location": "Great Exuma",
+  "phone": "242-464-1081",
+  "whatsapp": "",
+  "email": "info@exumaadventuretours.com",
+  "website": "https://www.exumaadventuretours.com",
+  "instagram": "https://www.instagram.com/exumaadventuretours",
+  "facebook": "Exuma Adventure Tours",
+  "images": [],
+  "tags": [
+    "tours",
+    "atv-tours",
+    "things-to-do-exuma",
+    "adventure",
+    "great-exuma"
+  ]
+}
 ]
